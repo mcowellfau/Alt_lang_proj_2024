@@ -20,7 +20,7 @@ public class MyObject {
         // Initialize other fields
     }
 
-    // Getters
+    // Getters for attributes
     public String getOem() {
         return oem;
     }
@@ -49,27 +49,27 @@ public class MyObject {
         return body_sim;
     }
 
-   public String getDisplayType() {
+    public String getDisplayType() {
         return display_type;
     }
 
-  public String getDisplaySize() {
-      return display_size;
-  }
+    public String getDisplaySize() {
+        return display_size;
+    }
+  
+    public String DisplayRes() {
+        return display_resolution;
+    }
+  
+    public String getFeature() {
+        return feature_sensors;
+    }
+  
+    public String getPlatform() {
+        return platform_os;
+    }
 
-  public String DisplayRes() {
-      return display_resolution;
-  }
-
-  public String getFeature() {
-      return feature_sensors;
-  }
-
-  public String getPlatform() {
-      return platform_os;
-  }
-
-    //Setters
+    //Setters for attributes
     public void setOem(String oem) {
         this.oem = oem;
     }
@@ -77,4 +77,66 @@ public class MyObject {
     public void setModel(String model) {
         this.model = model;
     }
+
+    public void setAnnounced(String launch_announced) {
+        this.launch_announced = launch_announced;
+    }
+
+    public void setStatusl(String launch_status) {
+        this.launch_status = launch_status;
+    }
+
+    public void setDimensions(String body_dimensions) {
+        this.body_dimensions = body_dimensions;
+    }
+
+    public void setWeight(String body_weight) {
+        this.body_weight = body_weight;
+    }
+
+    public void setSim(String body_sim) {
+        this.body_sim = body_sim;
+    }
+
+    public void setDisplayType(String display_type) {
+        this.display_type = display_type;
+    }
+
+    public void setDisplaySize(String display_size) {
+        this.display_size = display_size;
+    }
+
+    public void setDisplayRes(String display_resolution) {
+        this.display_resolution = display_resolution;
+    }
+
+    public void setFeature(String feature_sensors) {
+        this.feature_sensors = feature_sensors;
+    }
+
+    public void setPlatform(String platform_os) {
+        this.platform_os = platform_os;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
