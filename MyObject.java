@@ -11,7 +11,6 @@ public class MyObject {
     private String display_resolution;
     private String feature_sensors;
     private String platform_os;
-    // Add other fields as needed
 
     // Constructor
     //All column attributes
@@ -21,22 +20,61 @@ public class MyObject {
         // Initialize other fields
     }
 
-    // Getters and setters
+    // Getters
     public String getOem() {
         return oem;
     }
 
-    public void setOem(String oem) {
-        this.oem = oem;
+    public String getModel() {
+        return model;
     }
 
-    public String getModel() {
-        return field2;
+    public String getAnnounced() {
+        return launch_announced;
+    }
+    
+    public String getStatus() {
+        return launch_status;
+    }
+
+    public String getDimensions() {
+        return body_dimensions;
+    }
+
+    public String getWeight() {
+        return body_weight;
+    }
+
+    public String getSim() {
+        return body_sim;
+    }
+
+   public String getDisplayType() {
+        return display_type;
+    }
+
+  public String getDisplaySize() {
+      return display_size;
+  }
+
+  public String DisplayRes() {
+      return display_resolution;
+  }
+
+  public String getFeature() {
+      return feature_sensors;
+  }
+
+  public String getPlatform() {
+      return platform_os;
+  }
+
+    //Setters
+    public void setOem(String oem) {
+        this.oem = oem;
     }
 
     public void setModel(String model) {
         this.model = model;
     }
-
-    // Add getters and setters for other fields
 }
