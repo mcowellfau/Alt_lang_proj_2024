@@ -1,13 +1,9 @@
-//import to read in cells.csv
 import com.opencsv.CSVReader;
-//imports for reading io file and data storage using hash map
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-
-// Import MyObject class from MyObject.java
-import MyObject; // Replace com.example with your actual package name
 
 public class Main {
     public static void main(String[] args) {
@@ -20,8 +16,25 @@ public class Main {
             while ((nextLine = reader.readNext()) != null) {
                 // Assuming each line has 12 columns
                 if (nextLine.length == 12) {
-                    MyObject obj = new MyObject(nextLine[0], nextLine[1] /* Pass other fields as arguments */);
-                    // Set other fields of MyObject instance
+                    // Replace missing or "-" values with null
+                    for (int i = 0; i < nextLine.length; i++) {
+                        if (nextLine[i].isEmpty() || nextLine[i].equals("-")) {
+                            nextLine[i] = null;
+                        }
+                    }
+
+                    // Transform data in appropriate columns
+                    // For example, in the body_weight column, extract the numeric value
+                    if (nextLine[5] != null && nextLine[5].contains("g")) {
+                        String weight = nextLine[5].replaceAll("[^\\d]", ""); // Extract numeric part
+                        nextLine[5] = weight.isEmpty() ? null : weight; // Assign null if no numeric part found
+                    }
+
+                    // Create a MyObject instance using the values from the CSV
+                    MyObject obj = new MyObject(nextLine[0], nextLine[1], nextLine[2], nextLine[3],
+                                                nextLine[4], nextLine[5], nextLine[6], nextLine[7],
+                                                nextLine[8], nextLine[9], nextLine[10], nextLine[11]);
+                    // Store the MyObject instance in the HashMap
                     map.put(lineNumber, obj);
                     lineNumber++;
                 } else {
@@ -38,9 +51,10 @@ public class Main {
             System.out.println("Line number: " + entry.getKey());
             MyObject obj = entry.getValue();
             // Do something with the MyObject instance
-            System.out.println("Field1: " + obj.getField1());
-            System.out.println("Field2: " + obj.getField2());
+            System.out.println("OEM: " + obj.getOem());
+            System.out.println("Model: " + obj.getModel());
             // Print other fields
         }
     }
 }
+
