@@ -83,7 +83,10 @@ public class Main {
     }
     
     private static String validateAndTransformbodyDimensions(String bodyDimensions){
-        return bodyDimensions;
+        if(bodyDimensions != null && bodyDimensions.matches("[a-zA-Z0-9]+")){
+            return bodyDimensions;
+        }
+        return null;
     }
 
     private static Float validateAndTransformbodyWeight(String bodyWeight){
@@ -91,7 +94,10 @@ public class Main {
     }
 
     private static String validateAndTransformbodySim(String bodySim){
-        return bodySim;
+        if (bodySim != null || "No".equals(bodySim) || "Yes".equals(bodySim)) {
+            return bodySim;
+        }
+        return null;
     }
 
     private static String validateAndTransformdisplayType(String displayType){
