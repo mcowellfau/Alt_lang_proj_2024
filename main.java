@@ -165,14 +165,43 @@ public class Main {
         return null;
     }
 
-    private static String validateAndTransformFeatureSensors(String featureSensors){
+    private static String validateAndTransformFeatureSensors(String featureSensors) {
+        // Check for null or empty string first
+        if (featureSensors == null || featureSensors.trim().isEmpty()) {
+            return null;
+        }
         
+        // Regular expression to match strings that are only numbers (integer or floating point)
+        String numberRegex = "^-?\\d+(\\.\\d+)?$";
+        
+        // Check if the input is just a number
+        if (featureSensors.matches(numberRegex)) {
+            return null; // Invalid data: Only a number
+        }
+    
+        // "V1" or any string with letters (and possibly numbers) is considered valid
         return featureSensors;
     }
-
-    private static String validateAndTransformPlatformOS(String platformOS){
-        return platformOS;
+    
+    private static String validateAndTransformPlatformOS(String platformOS) {
+        if (platformOS == null || platformOS.trim().isEmpty()) {
+            return null; // Handle null or empty input by returning null
+        }
+        
+        // Use regex to find the portion of the string up to the first comma, if any
+        String shortenedPlatformOS = platformOS.split(",", 2)[0].trim();
+    
+        // Regular expression to check if the string is only numbers (integer or floating point)
+        String numberRegex = "^-?\\d+(\\.\\d+)?$";
+        
+        // Check if the shortened string is just a number
+        if (shortenedPlatformOS.matches(numberRegex)) {
+            return null; // Invalid data: Only a number
+        }
+    
+        return shortenedPlatformOS;
     }
+    
     // Implement other validation and transformation methods similarly...
 
     private static void writeCleanedCsv(List<MyObject> dataList, String outputPath) {
