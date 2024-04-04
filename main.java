@@ -101,18 +101,26 @@ public class Main {
     }
 
     private static String validateAndTransformdisplayType(String displayType){
-        return displayType;
+        if (displayType != null && displayType.matches("[a-zA-Z0-9]+")) {
+            return displayType;
+        }
+        return null;
     }
 
     private static Float validateAndTransformdisplaySize(String displaySize){
+
         return Float.parseFloat(displaySize);
     }
 
     private static String validateAndTransformdisplayResolution(String displayResolution){
-        return displayResolution;
+        if (displayResolution != null && displayResolution.matches("[a-zA-Z0-9]+")) {
+            return displayResolution;
+        }
+        return null;
     }
 
     private static String validateAndTransformfeatureSensors(String featureSensors){
+        
         return featureSensors;
     }
 
