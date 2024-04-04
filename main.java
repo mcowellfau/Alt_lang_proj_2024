@@ -89,16 +89,40 @@ public class Main {
         return null;
     }
 
-    private static Float validateAndTransformBodyWeight(String bodyWeight){
-        return Float.parseFloat(bodyWeight);
-    }
-
-    private static String validateAndTransformBodySim(String bodySim){
-        if (bodySim != null || "No".equals(bodySim) || "Yes".equals(bodySim)) {
-            return bodySim;
+    private static Float validateAndTransformBodyWeight(String bodyWeight) {
+        if (bodyWeight == null) {
+            return null;
         }
-        return null;
-    }
+    
+        // Regex pattern to match an integer followed by "g" (ignores case and any characters before/after)
+        String regex = "(\\d+)\\s*g";
+        java.util.regex.Pattern pattern = java.util.regex.Pattern.compile(regex, java.util.regex.Pattern.CASE_INSENSITIVE);
+        java.util.regex.Matcher matcher = pattern.matcher(bodyWeight);
+    
+        if (matcher.find()) {
+            // Extract the numeric part (group 1 from the regex)
+            String numberString = matcher.group(1);
+            try {
+                // Convert the extracted string to a float
+                return Float.parseFloat(numberString);
+            } catch (NumberFormatException e) {
+                // In case the number is not a valid float (though it should be, as we extracted an integer)
+                return null;
+            }
+        } else {
+            // If the input doesn't match the expected pattern, return null
+            return null;
+        }
+    }   
+
+    private static String validateAndTransformBodySim(String bodySim) {
+        // Check if bodySim is "No" or "Yes" (considering case sensitivity)
+        if ("No".equalsIgnoreCase(bodySim) || "Yes".equalsIgnoreCase(bodySim)) {
+            return null; // Replace with null for "No" or "Yes"
+        }
+        // For all other non-null cases, return the original bodySim string
+        return bodySim;
+    }    
 
     private static String validateAndTransformDisplayType(String displayType){
         if (displayType != null && displayType.matches("[a-zA-Z0-9]+")) {
