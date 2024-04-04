@@ -36,11 +36,15 @@ public class Main {
                 String bodyDimensions = validateAndTransformbodyDimensions(values[4]);
                 Float bodyWeight = validateAndTransformbodyWeight(values[5]);
                 String bodySim = validateAndTransformbodySim(values[6]);
-
+                String displayType = validateAndTransformdisplayType(values[7]);
+                Float displaySize = validateAndTransformdisplaySize(values[8]);
+                String displayResolution = validateAndTransformdisplayResolution(values[9]);
+                String featureSensors = validateAndTransformfeatureSensors(values[10]);
+                String platformOS = validateAndTransformplatformOS(values[11]);
                 // Continue processing other fields as necessary...
                 
                 // Create a new MyObject instance with the processed values
-                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, bodySim, );
+                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, bodySim, displayType,displaySize,displayResolution, featureSensors, platformOS);
                 dataList.add(object);
             }
         } catch (IOException e) {
@@ -88,6 +92,26 @@ public class Main {
 
     private static String validateAndTransformbodySim(String bodySim){
         return bodySim;
+    }
+
+    private static String validateAndTransformdisplayType(String displayType){
+        return displayType;
+    }
+
+    private static Float validateAndTransformdisplaySize(String displaySize){
+        return Float.parseFloat(displaySize);
+    }
+
+    private static String validateAndTransformdisplayResolution(String displayResolution){
+        return displayResolution;
+    }
+
+    private static String validateAndTransformfeatureSensors(String featureSensors){
+        return featureSensors;
+    }
+
+    private static String validateAndTransformplatformOS(String platformOS){
+        return platformOS;
     }
     // Implement other validation and transformation methods similarly...
 
