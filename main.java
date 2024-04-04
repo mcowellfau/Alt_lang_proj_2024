@@ -35,10 +35,12 @@ public class Main {
                 String launchStatus = validateAndTransformLaunchStatus(values[3]);
                 String bodyDimensions = validateAndTransformbodyDimensions(values[4]);
                 Float bodyWeight = validateAndTransformbodyWeight(values[5]);
+                String bodySim = validateAndTransformbodySim(values[6]);
+
                 // Continue processing other fields as necessary...
                 
                 // Create a new MyObject instance with the processed values
-                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, /* other parameters */);
+                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, bodySim, );
                 dataList.add(object);
             }
         } catch (IOException e) {
@@ -82,6 +84,10 @@ public class Main {
 
     private static Float validateAndTransformbodyWeight(String bodyWeight){
         return Float.parseFloat(bodyWeight);
+    }
+
+    private static String validateAndTransformbodySim(String bodySim){
+        return bodySim;
     }
     // Implement other validation and transformation methods similarly...
 
