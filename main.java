@@ -10,13 +10,13 @@ public class Main {
 
     public static void main(String[] args) {
         String inputCsvFile = "D:\\COP4020\\Alt_lang_Cowell2024\\Alt_lang_proj_2024\\cells.csv"; // Adjust the path to your original CSV file
-        //String outputCsvFile = "path_to_your_destination_file/cleaned_cells.csv"; // Adjust the path to your destination CSV file
+        String outputCsvFile = "path_to_your_destination_file/cleaned_cells.csv"; // Adjust the path to your destination CSV file
 
         // Reading and processing the CSV file
-        //List<MyObject> dataList = readAndProcessCsv(inputCsvFile);
+        List<MyObject> dataList = readAndProcessCsv(inputCsvFile);
 
         // Writing the cleaned data to a new CSV file
-        //writeCleanedCsv(dataList, outputCsvFile);
+        writeCleanedCsv(dataList, outputCsvFile);
     }
 
     private static List<MyObject> readAndProcessCsv(String filePath) {
@@ -33,10 +33,12 @@ public class Main {
                 String model = validateAndTransformModel(values[1]);
                 Integer launchAnnounced = validateAndTransformLaunchAnnounced(values[2]);
                 String launchStatus = validateAndTransformLaunchStatus(values[3]);
+                String bodyDimensions = validateAndTransformbodyDimensions(values[4]);
+                Float bodyWeight = validateAndTransformbodyWeight(values[5]);
                 // Continue processing other fields as necessary...
                 
                 // Create a new MyObject instance with the processed values
-                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, /* other parameters */);
+                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, /* other parameters */);
                 dataList.add(object);
             }
         } catch (IOException e) {
@@ -74,6 +76,13 @@ public class Main {
         return null;
     }
     
+    private static String validateAndTransformbodyDimensions(String bodyDimensions){
+        return bodyDimensions;
+    }
+
+    private static Float validateAndTransformbodyWeight(String bodyWeight){
+        return Float.parseFloat(bodyWeight);
+    }
     // Implement other validation and transformation methods similarly...
 
     private static void writeCleanedCsv(List<MyObject> dataList, String outputPath) {
