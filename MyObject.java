@@ -14,10 +14,19 @@ public class MyObject {
 
     // Constructor
     //All column attributes
-    public MyObject(String oem, String model, String launch_announced, String launch_status,          String body_dimensions, String body_weight, String body_sim, String display_type, String        display_size, String display_resolution, String features_sensors, String platform_os) {
+    public MyObject(String oem, String model, String launch_announced, String launch_status, String body_dimensions, String body_weight, String body_sim, String display_type, String display_size, String display_resolution, String features_sensors, String platform_os) {
         this.oem = oem;
         this.model = model;
-        // Initialize other fields
+        this.launch_announced = launch_announced;
+        this.launch_status = launch_status;
+        this.body_dimensions = body_dimensions;
+        this.body_weight = body_weight;
+        this.body_sim = body_sim;
+        this.display_type = display_type;
+        this.display_size = display_size;
+        this.display_resolution = display_resolution;
+        this.feature_sensors = features_sensors;
+        this.platform_os = platform_os;
     }
 
     // Getters for attributes
@@ -57,7 +66,7 @@ public class MyObject {
         return display_size;
     }
   
-    public String DisplayRes() {
+    public String getDisplayRes() {
         return display_resolution;
     }
   
@@ -117,26 +126,5 @@ public class MyObject {
     public void setPlatform(String platform_os) {
         this.platform_os = platform_os;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
