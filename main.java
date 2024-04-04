@@ -44,7 +44,7 @@ public class Main {
                 // Continue processing other fields as necessary...
                 
                 // Create a new MyObject instance with the processed values
-                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, bodySim, displayType,displaySize,displayResolution, featureSensors, platformOS);
+                MyObject object = new MyObject(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, bodySim, displayType, displaySize, displayResolution, featureSensors, platformOS);
                 dataList.add(object);
             }
         } catch (IOException e) {

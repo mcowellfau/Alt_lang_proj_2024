@@ -1,20 +1,20 @@
 public class MyObject {
     private String oem;
     private String model;
-    private String launch_announced;
+    private Integer launch_announced;
     private String launch_status;
     private String body_dimensions;
-    private String body_weight;
+    private Float body_weight;
     private String body_sim;
     private String display_type;
-    private String display_size;
+    private Float display_size;
     private String display_resolution;
     private String feature_sensors;
     private String platform_os;
 
     // Constructor
     //All column attributes
-    public MyObject(String oem, String model, String launch_announced, String launch_status, String body_dimensions, String body_weight, String body_sim, String display_type, String display_size, String display_resolution, String features_sensors, String platform_os) {
+    public MyObject(String oem, String model, Integer launch_announced, String launch_status, String body_dimensions, Float body_weight, String body_sim, String display_type, Float display_size, String display_resolution, String features_sensors, String platform_os) {
         this.oem = oem;
         this.model = model;
         this.launch_announced = launch_announced;
@@ -38,7 +38,7 @@ public class MyObject {
         return model;
     }
 
-    public String getAnnounced() {
+    public Integer getAnnounced() {
         return launch_announced;
     }
     
@@ -50,7 +50,7 @@ public class MyObject {
         return body_dimensions;
     }
 
-    public String getWeight() {
+    public Float getWeight() {
         return body_weight;
     }
 
@@ -62,7 +62,7 @@ public class MyObject {
         return display_type;
     }
 
-    public String getDisplaySize() {
+    public Float getDisplaySize() {
         return display_size;
     }
   
@@ -87,7 +87,7 @@ public class MyObject {
         this.model = model;
     }
 
-    public void setAnnounced(String launch_announced) {
+    public void setAnnounced(Integer launch_announced) {
         this.launch_announced = launch_announced;
     }
 
@@ -99,7 +99,7 @@ public class MyObject {
         this.body_dimensions = body_dimensions;
     }
 
-    public void setWeight(String body_weight) {
+    public void setWeight(Float body_weight) {
         this.body_weight = body_weight;
     }
 
@@ -111,7 +111,7 @@ public class MyObject {
         this.display_type = display_type;
     }
 
-    public void setDisplaySize(String display_size) {
+    public void setDisplaySize(Float display_size) {
         this.display_size = display_size;
     }
 
