@@ -212,7 +212,7 @@ public class Main {
             // Write the cleaned data
             for (MyObject obj : dataList) {
                 // Assuming MyObject class has a method to return a CSV-formatted string
-                //pw.println(obj.toCsvString());//fix this in myobject probably
+                pw.println(obj.toCsvString());
             }
         } catch (IOException e) {
             e.printStackTrace();

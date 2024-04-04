@@ -127,4 +127,26 @@ public class MyObject {
         this.platform_os = platform_os;
     }
 
+    
+        
+    
+        // Implementing toCsvString method
+        public String toCsvString() {
+            return String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s",
+                    oem != null ? oem : "",
+                    model != null ? model : "",
+                    launch_announced != null ? launch_announced : "",
+                    launch_status != null ? launch_status : "",
+                    body_dimensions != null ? body_dimensions : "",
+                    body_weight != null ? body_weight : "",
+                    body_sim != null ? body_sim : "",
+                    display_type != null ? display_type : "",
+                    display_size != null ? display_size : "",
+                    display_resolution != null ? display_resolution : "",
+                    feature_sensors != null ? feature_sensors : "",
+                    platform_os != null ? platform_os : "");
+        }
+    
+    
+
 }
