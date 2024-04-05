@@ -1,0 +1,1001 @@
+oem,model,launch_announced,launch_status,body_dimensions,body_weight,body_sim,display_type,display_size,display_resolution,feature_sensors,platform_os
+Benefon,Vega,1999,Discontinued,,190.0,Mini-SIM,,,,V1,
+,,,,,,-,,,, 65K colors","3.5 inches
+Gigabyte,,,,,,116 x 56.8 x 12.4 mm (4.57 x 2.24 x 0.49 in),,,, 256K colors","3.2 inches
+Gigabyte,GSmart,,Cancelled,,,Mini-SIM,,,, 24.3 cm (~43.7% screen-to-body ratio)","240 x 320 pixels
+Google,,,,,,160.4 x 75.1 x 8.2 mm (6.31 x 2.96 x 0.32 in),,,, 16M colors","6.3 inches
+Google,,,,,,147.1 x 68.8 x 8.2 mm (5.79 x 2.71 x 0.32 in),,,, 16M colors","5.7 inches
+Google,,,,,,160.1 x 76.1 x 8.2 mm (6.30 x 3.00 x 0.32 in),,,,"OLED capacitive touchscreen,16M colors"
+Google,,,,,,151.3 x 70.1 x 8.2 mm (5.96 x 2.76 x 0.32 in),,,, 16M colors","5.6 inches
+Haier,N60,,,Discontinued,,131 g (4.62 oz),,,,,"320 x 240 pixels
+Haier,T3000,,,Discontinued,,85 g (3.00 oz),,,,128 x 160 pixels,V1
+Haier,V280,2005,Discontinued,,80.0,Mini-SIM,,,,V1,
+Haier,V190,2004,Discontinued,,90.0,Mini-SIM,,,, 1:1 ratio",V1
+Haier,V100,2004,Discontinued,,90.0,Mini-SIM,,,, 1:1 ratio",V1
+Haier,P5,2003,Discontinued,,75.0,Mini-SIM,Monochrome,,, 16:10 ratio",V1
+Haier,Z8000,2004,Discontinued,,90.0,Mini-SIM,,,, 1:1 ratio",V1
+Honor,,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,Play4,,,,,170 x 78.5 x 8.9 mm (6.69 x 3.09 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,162.7 x 75.8 x 8.9 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,163.7 x 76.5 x 8.8 mm (6.44 x 3.01 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,V6,,,,,245.2 x 154.9 x 7.8 mm (9.65 x 6.10 x 0.31 in),,,, 16M colors","10.4 inches
+Honor,9A,,,,,159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,9C,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,9S,,,,,146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in),,,,"Capacitive touchscreen,16M colors"
+Honor,,,,,,160.4 x 76.6 x 7.8 mm (6.31 x 3.02 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,160.3 x 73.6 x 8.4 mm (6.31 x 2.90 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,,,,,,160.3 x 73.6 x 8.4 mm (6.31 x 2.90 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,30,,,,,160.3 x 74.2 x 8.1 mm (6.31 x 2.92 x 0.32 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,20e,,,,,154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,156.3 x 73.5 x 8.2 mm (6.15 x 2.89 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,156.3 x 73.5 x 8.2 mm (6.15 x 2.89 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,30S,,,,,162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,162.7 x 75.8 x 8.8 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,View30,,,,,162.7 x 75.8 x 8.9 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,162.7 x 75.8 x 8.8 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in),,,, 16M colors","1.39 inches
+Honor,9X,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,157.2 x 73.2 x 7.7 mm (6.19 x 2.88 x 0.30 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Honor,,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,20S,,,,,154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,8S,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,243 x 164 x 7.8 mm (9.57 x 6.46 x 0.31 in),,,, 16M colors","10.1 inches
+Honor,,,,,,204.2 x 122.2 x 8.2 mm (8.04 x 4.81 x 0.32 in),,,, 16M colors","8.0 inches
+Honor,,,,,,154.6 x 74 x 8.4 mm (6.09 x 2.91 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,20,,,,,154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+HP,,,,,,220 x 141.5 x 9.9 mm (8.66 x 5.57 x 0.39 in),,,, 16M colors","8.0 inches
+HTC,,,,,,171.2 x 78.1 x 9.4 mm (6.74 x 3.07 x 0.37 in),,,,"Capacitive touchscreen,16M colors"
+HTC,,,,,,162 x 77 x 9.4 mm (6.38 x 3.03 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,163.2 x 77.8 x 8.9 mm (6.43 x 3.06 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,154.2 x 72.7 x 8.3 mm (6.07 x 2.86 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,156.7 x 74.9 x 8 mm (6.17 x 2.95 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,U19e,,,,,156.6 x 75.9 x 8 mm (6.17 x 2.99 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+HTC,,,,,,156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,Schubert,,Discontinued,,,Mini-SIM,,,,,"Accelerometer
+Huawei,,,,,,160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,Y8p,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,158 x 73.4 x 8.4 mm (6.22 x 2.89 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,199.7 x 121.1 x 8.6 mm (7.86 x 4.77 x 0.34 in),,,, 16M colors","8.0 inches
+Huawei,Y8s,,,,,162.4 x 77.1 x 8.1 mm (6.39 x 3.04 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,Y6p,,,,,159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,Y5p,,,,,146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,155.2 x 73.4 x 8 mm (6.11 x 2.89 x 0.31 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,160.4 x 73.7 x 8 mm (6.31 x 2.90 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,160.6 x 74.3 x 8 mm (6.32 x 2.93 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,MatePad,,,,,245.2 x 155 x 7.4 mm (9.65 x 6.10 x 0.29 in),,,, 16M colors","10.4 inches
+Huawei,,,,,,53 x 46.8 x 10.8 mm (2.09 x 1.84 x 0.43 in),,,, 16M colors","1.39 inches
+Huawei,,,,,,158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,P40,,,,,148.9 x 71.1 x 8.5 mm (5.86 x 2.80 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in),,,, 16M colors","10.8 inches
+Huawei,,,,,,Unfolded: 161.3 x 146.2 x 5.4 mmFolded: 161.3 x 78.5 x 11 mm,,,,"Foldable OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,152.9 x 72.7 x 7.4 mm (6.02 x 2.86 x 0.29 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,Y7p,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,156.3 x 73.5 x 8 mm (6.15 x 2.89 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,162.7 x 75.8 x 9 mm (6.41 x 2.98 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,162.6 x 75.7 x 8.6 mm (6.40 x 2.98 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in),,,, 16M colors","10.8 inches
+Huawei,Y9s,,,,,163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,158.1 x 73.1 x 9.3 mm (6.22 x 2.88 x 0.37 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in),,,, 16M colors","1.39 inches
+Huawei,,,,,,156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,154.3 x 74 x 7.8 mm (6.07 x 2.91 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,257 x 170 x 7.2 mm (10.12 x 6.69 x 0.28 in),,,, 16M colors","10.8 inches
+Huawei,,,,,,206.4 x 125.2 x 8.2 mm (8.13 x 4.93 x 0.32 in),,,, 16M colors","8.4 inches
+Huawei,,,,,,206.4 x 125.2 x 7.4 mm (8.13 x 4.93 x 0.29 in),,,, 16M colors","8.4 inches
+Huawei,,,,,,157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.5 x 77.3 x 8.9 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,174.6 x 85.4 x 8.4 mm (6.87 x 3.36 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,125 x 63.5 x 12.7 mm (4.92 x 2.5 x 0.5 in),,,,4.0 inches,
+Huawei,,,,,,193.4 x 120.6 x 9.9 mm (7.61 x 4.75 x 0.39 in),,,,"7.0 inches,137.9 cm (~59.1% screen-to-body ratio)"
+Huawei,G7002,,,,,98.4 x 51.3 x 13.6 mm (3.87 x 2.02 x 0.54 in),,,, 65K colors",
+,PDA2,,,Discontinued,,190 g (6.70 oz),,,,"3.5 inches,53 x 71 mm
+,Smartphone2,,,Discontinued,, 105 cc (4.74 x 1.97 x 0.96 in)",,,, 65K colors","2.2 inches
+,Smartphone,,,Discontinued,, 105 cc (4.72 x 1.97 x 0.93 in)",,,, 65K colors","2.2 inches
+,510,,,,,99 x 44 x 15 mm (3.90 x 1.73 x 0.59 in),,,, 256K colors",
+,315,,,,,98 x 46.3 x 15.1 mm (3.86 x 1.82 x 0.59 in),,,, 256K colors","1.5 inches
+Icemobile,,,,Discontinued,,316 g (11.15 oz),,,, 44.5 cm (~41.8% screen-to-body ratio)","480 x 854 pixels
+Icemobile,,,,,,152.5 x 77 x 8.6 mm (6.00 x 3.03 x 0.34 in),,,,"5.46 inches,82.2 cm (~70.0% screen-to-body ratio)"
+Icemobile,,,,,,133.5 x 67 x 9.5 mm (5.26 x 2.64 x 0.37 in),,,,"4.46 inches,54.8 cm (~61.3% screen-to-body ratio)"
+Icemobile,,,Discontinued,,240.0,,,,,"480 x 854 pixels,16:9 ratio (~244 ppi density)"
+Icemobile,Quattro,,,,,104 x 54 x 10.3 mm (4.09 x 2.13 x 0.41 in),,,TFT,"2.3 inches,16.4 cm (~29.2% screen-to-body ratio)"
+Infinix,,,,,,171.8 x 78 x 8.9 mm (6.76 x 3.07 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,173.4 x 79 x 8.8 mm (6.83 x 3.11 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,165.4 x 76.8 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,165 x 76.8 x 8.7 mm (6.50 x 3.02 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,165.4 x 76.8 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,162.5 x 76.9 x 9 mm (6.40 x 3.03 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,162.5 x 76.9 x 9 mm (6.40 x 3.03 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,164 x 76 x 7.9 mm (6.46 x 2.99 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,167 x 76 x 8.3 mm (6.57 x 2.99 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,165 x 76.3 x 8.7 mm (6.50 x 3.00 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,165 x 76.3 x 8.7 mm (6.50 x 3.00 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,157 x 76 x 7.8 mm (6.18 x 2.99 x 0.31 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Infinix,S4,,,,,156 x 75 x 7.9 mm (6.14 x 2.95 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Infinix,,,,,,155 x 74.8 x 8 mm (6.10 x 2.94 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Innostream,,,,Discontinued,,105 g (3.70 oz),,,,,176 x 220 pixels
+Innostream,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Innostream,,,,Discontinued,,85 g (3.00 oz),,,,,"128 x 160 pixels
+Innostream,,,,Discontinued,,85 g (3.00 oz),,,,,"128 x 160 pixels
+Innostream,,,,Discontinued,,76 g (2.68 oz),,,,,"128 x 160 pixels
+Innostream,,,,Discontinued,,88 g (3.10 oz),,,,,"128 x 160 pixels
+Innostream,,,,Discontinued,,88 g (3.10 oz),,,,,"128 x 160 pixels
+Innostream,,,,Discontinued,,91 g (3.21 oz),,,,,"128 x 160 pixels
+Innostream,,,,Discontinued,,81 g (2.86 oz),,,,,"128 x 144 pixels
+Innostream,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 144 pixels
+Innostream,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 144 pixels
+Kyocera,,2000,Discontinued,,75.0,Mini-SIM,,,,V1,
+Lava,Z71,,,,,145.6 x 70.9 x 9 mm (5.73 x 2.79 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Lava,,,,,,142.5 x 72.5 x 10.5 mm (5.61 x 2.85 x 0.41 in),,,,"LCD capacitive touchscreen,16M colors"
+Lenovo,,,,,,-,,,, 16M colors","10.1 inches
+Lenovo,,,,,,242mm x 166mm x 8.5-24mm,,,, 16M colors","10.1 inches
+Lenovo,,,,,,158.3 x 75.8 x 8.3 mm (6.23 x 2.98 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Lenovo,,,,,,156.6 x 74.3 x 7.9 mm (6.17 x 2.93 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Lenovo,,,,,,154.7 x 72.9 x 9.2 mm (6.09 x 2.87 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Lenovo,,,,,,198.2 x 122.6 x 8.2 mm (7.80 x 4.83 x 0.32 in),,,, 16M colors","8.0 inches
+Lenovo,,,,,,199.1 x 121.8 x 8.2 mm (7.84 x 4.80 x 0.32 in),,,, 16M colors","8.0 inches
+Lenovo,,,,,,176.3 x 102.9 x 8.3 mm (6.94 x 4.05 x 0.33 in),,,, 16M colors","7.0 inches
+Lenovo,Z6,,,,,157 x 74.5 x 8 mm (6.18 x 2.93 x 0.31 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Lenovo,,,,,,157.5 x 74.6 x 8.7 mm (6.20 x 2.94 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Lenovo,,,,,,156.6 x 74.3 x 7.9 mm (6.17 x 2.93 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Lenovo,,,,,,157.5 x 74.6 x 8.7 mm (6.20 x 2.94 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Lenovo,,2016,,,655.0,Micro-SIM,,,, 295.8 cm (~63.2% screen-to-body ratio)","800 x 1280 pixels
+LG,Q61,,,,,164.5 x 77.5 x 8.3 mm (6.48 x 3.05 x 0.33 in),,,, 16M colors","6.53 inches
+LG,,,,,,171.2 x 77.7 x 8.6 mm (6.74 x 3.06 x 0.34 in),,,, 16M colors","6.8 inches
+LG,Velvet,,,,,167.2 x 74.1 x 7.9 mm (6.58 x 2.92 x 0.31 in),,,,"P-OLED capacitive touchscreen,16M colors"
+LG,,,,,,107.9 x 55 x 18 mm (4.25 x 2.17 x 0.71 in),,,, 16M colors","2.8 inches
+LG,,,,,,169.3 x 77.6 x 8.9 mm (6.67 x 3.06 x 0.35 in),,,, 16M colors","6.8 inches
+LG,,,,,,169.3 x 77.6 x 8.9 mm (6.67 x 3.06 x 0.35 in),,,,"P-OLED capacitive touchscreen,16M colors"
+LG,Q51,,,,,164.5 x 77.5 x 8.4 mm (6.48 x 3.05 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,147.3 x 71 x 8.9 mm (5.80 x 2.80 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,K61,,,,,164.5 x 77.5 x 8.4 mm (6.48 x 3.05 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,K51S,,,,,165.2 x 76.7 x 8.3 mm (6.50 x 3.02 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,K41S,,,,,165.8 x 76.5 x 8.3 mm (6.53 x 3.01 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,247.2 x 150.7 x 8 mm (9.73 x 5.93 x 0.31 in),,,, 16M colors","10.1 inches
+LG,,,,,,159.3 x 75.8 x 8.4 mm (6.27 x 2.98 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+LG,,,,,,159.3 x 75.8 x 8.4 mm (6.27 x 2.98 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+LG,Q70,,,,,162.1 x 76.8 x 8.3 mm (6.38 x 3.02 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,146.9 x 71.5 x 8.5 mm (5.78 x 2.81 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,148.6 x 71.9 x 8.3 mm (5.85 x 2.83 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,K40S,,,,,156.3 x 73.9 x 8.6 mm (6.15 x 2.91 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,K50S,,,,,165.8 x 77.5 x 8.2 mm (6.53 x 3.05 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,157.7 x 75.9 x 8.3 mm (6.21 x 2.99 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,W30,,,,,159 x 76.5 x 8.2 mm (6.26 x 3.01 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,W10,,,,,156 x 76.2 x 8.5 mm (6.14 x 3.00 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,160 x 77.7 x 8.4 mm (6.30 x 3.06 x 0.33 in),,,, 16M colors","6.2 inches
+LG,,,,,,155.3 x 76.6 x 8 mm (6.11 x 3.02 x 0.31 in),,,,"G-OLED capacitive touchscreen,16M colors"
+LG,,,,,,160.1 x 77.7 x 8.4 mm (6.30 x 3.06 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,154.7 x 78.1 x 8.9 mm (6.09 x 3.07 x 0.35 in),,,, 16M colors","5.5 inches
+LG,,,,,,146.3 x 73.2 x 8.2 mm (5.76 x 2.88 x 0.32 in),,,,"S-IPS LCD capacitive touchscreen,16M colors"
+LG,,,,,,V1,,,, 16M colors","1.3 inches
+LG,L20,,,,,105.6 x 64.5 x 13 mm (4.16 x 2.54 x 0.51 in),,,,"3.0 inches,27.9 cm (~40.9% screen-to-body ratio)"
+LG,KM338,,,Discontinued,,,,,,"2.0 inches,12.4 cm (~24.9% screen-to-body ratio)"
+LG,U890,,,Discontinued,, 80 cc (3.89 x 1.93 x 0.72 in)",,,, 256K colors","2.2 inches
+LG,P7200,,,Discontinued,,112 g (3.95 oz),,,,,176 x 220 pixels
+LG,B2050,,,Discontinued,,72 g (2.54 oz),,,,"1.5 inches,7.3 cm (~15.7% screen-to-body ratio)"
+LG,M4410,,,Discontinued,,107 g (3.77 oz),,,,,176 x 220 pixels
+LG,M4330,,,Cancelled,,110 g (3.88 oz),,,,,176 x 220 pixels
+LG,M4300,,,Discontinued,,110 g (3.88 oz),,,,,176 x 220 pixels
+LG,F3000,,,Discontinued,,91 g (3.21 oz),,,,,128 x 160 pixels
+LG,F2410,,,Discontinued,,91 g (3.21 oz),,,,,128 x 160 pixels
+LG,F2250,,,Discontinued,,90 g (3.17 oz),,,,,128 x 160 pixels
+LG,U8290,,,Discontinued,,125 g (4.41 oz),,,,,176 x 220 pixels
+LG,U8210,,,Discontinued,,115 g (4.06 oz),,,,,176 x 220 pixels
+LG,U8200,,,Discontinued,,125 g (4.41 oz),,,,,176 x 220 pixels
+LG,B2150,2005,Discontinued,,73.0,Mini-SIM,,,, 8.3 cm (~17.9% screen-to-body ratio)","128 x 128 pixels
+LG,B2100,,,Discontinued,,73 g (2.57 oz),,,,"1.5 inches,7.3 cm (~16.4% screen-to-body ratio)"
+LG,B2000,,,Discontinued,,73 g (2.57 oz),,,,"1.5 inches,7.3 cm (~16.2% screen-to-body ratio)"
+LG,F2400,,,Discontinued,,85 g (3.00 oz),,,,,"128 x 160 pixels
+LG,F1200,,,Discontinued,,101 g (3.56 oz),,,,,"128 x 160 pixels
+LG,F7250,,,Discontinued,,115 g (4.06 oz),,,,"1.9 inches,11.4 cm (~23.7% screen-to-body ratio)"
+LG,C2100,,,Discontinued,,90 g (3.17 oz),,,,,128 x 160 pixels
+LG,G1800,,,Discontinued,,78 g (2.75 oz),,,,"1.6 inches,8.3 cm (~18.5% screen-to-body ratio)"
+LG,G1610,,,Discontinued,,83 g (2.93 oz),,,,"1.5 inches,7.3 cm (~15.9% screen-to-body ratio)"
+LG,G1700,,,Discontinued,,80 g (2.82 oz),,,,"1.6 inches,8.3 cm (~18.6% screen-to-body ratio)"
+LG,F2300,,,Discontinued,,91 g (3.21 oz),,,,,"128 x 160 pixels
+LG,F2100,,,Discontinued,,90 g (3.17 oz),,,,,"128 x 160 pixels
+LG,L3100,,,Discontinued,,87 g (3.07 oz),,,,,128 x 160 pixels
+LG,C1200,,,Discontinued,,81 g (2.86 oz),,,,,128 x 160 pixels
+LG,G1600,,,Discontinued,,83 g (2.93 oz),,,,,"128 x 128 pixels
+LG,G7200,,,Discontinued,,116 g (4.09 oz),,,,,176 x 220 pixels
+LG,U8150,,,Discontinued,,136 g (4.80 oz),,,,,"176 x 220 pixels
+LG,G7070,,,Discontinued,,95 g (3.35 oz),,,,,"128 x 160 pixels
+LG,G7050,,,Discontinued,,89 g (3.14 oz),,,,,"128 x 160 pixels
+LG,G1500,,,Discontinued,,80 g (2.82 oz),,,,"128 x 64 pixels,2 lines
+LG,G5310,,,Discontinued,,85 g (3.00 oz),,,,,"128 x 160 pixels
+LG,W7020,,,Discontinued,,89 g (3.14 oz),,,,,"128 x 160 pixels
+LG,W5200,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+LG,,2002,Discontinued,,90.0,Mini-SIM,,,,V1,
+LG,,2002,Discontinued,,90.0,Mini-SIM,,,,V1,
+LG,,,Discontinued,,80.0,Mini-SIM,,,, 18:9 ratio",V1
+Maxon,,2003,Discontinued,,82.0,Mini-SIM,,,,"128 x 128 pixels,1:1 ratio"
+Maxon,,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Maxon,,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Maxon,,2004,Discontinued,,90.0,Mini-SIM,,,,128 x 160 pixels,V1
+Maxon,,2003,Discontinued,,85.0,Mini-SIM,,,,"128 x 128 pixels,8 lines
+Maxon,,2003,Discontinued,,90.0,Mini-SIM,,,,"128 x 160 pixels,7 lines"
+Maxon,,2004,Discontinued,,85.0,Mini-SIM,,,,V1,
+Maxon,,2003,Discontinued,,90.0,Mini-SIM,,,,"176 x 220 pixels,10 lines"
+Maxon,,2004,Discontinued,,67.0,Mini-SIM,,,,"128 x 128 pixels,1:1 ratio"
+Maxon,,2004,Discontinued,,80.0,Mini-SIM,,,,-,V1
+Maxon,,2003,Discontinued,,67.0,Mini-SIM,,,, 8 lines,1:1 ratio"
+Maxon,,2004,Cancelled,V1,,Mini-SIM,,,,V1,
+Maxon,,2004,Discontinued,,81.0,Mini-SIM,,,,V1,
+Maxon,,2004,Discontinued,,81.0,Mini-SIM,,,, 1:1 ratio",V1
+Maxon,,2004,Discontinued,,59.0,Mini-SIM,,,,V1,
+Maxon,,2003,Discontinued,,85.0,Mini-SIM,,,,"128 x 128 pixels,8 lines
+Maxon,,2003,Discontinued,,59.0,Mini-SIM,,,,"128 x 128 pixels,7 lines
+Maxon,,2003,Discontinued,,95.0,Mini-SIM,,,, 11 lines",V1
+Maxon,,2003,Discontinued,,80.0,Mini-SIM,,,,"128 x 160 pixels,6 lines"
+Maxon,,2000,Discontinued,,135.0,Mini-SIM,,,,V1,
+Maxon,,2000,Discontinued,,135.0,Mini-SIM,,,,V1,
+Maxon,,1999,Discontinued,,96.0,Mini-SIM,,,,V1,
+Maxon,,1999,Discontinued,,96.0,Mini-SIM,,,,V1,
+Meizu,,,,,,160 x 77.2 x 8.5 mm (6.30 x 3.04 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Meizu,17,,,,,160 x 77.2 x 8.5 mm (6.30 x 3.04 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Meizu,16T,,,,,159.6 x 78.2 x 8.3 mm (6.28 x 3.08 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Meizu,M10,,,,,164.9 x 76.3 x 8.5 mm (6.49 x 3.00 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Meizu,,,,,,151.9 x 73.4 x 7.7 mm (5.98 x 2.89 x 0.30 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Meizu,16Xs,,,,,152 x 74.4 x 8.3 mm (5.98 x 2.93 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Meizu,16s,,,,,151.9 x 73.4 x 7.6 mm (5.98 x 2.89 x 0.30 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Micromax,,,Discontinued,,,Dual SIM (Mini-SIM),,,, 45.5 cm","480 x 800 pixels
+Micromax,,,Discontinued,,89.0,Dual SIM (Mini-SIM),,,, 36.5 cm (~49.9% screen-to-body ratio)","320 x 480 pixels
+Micromax,,,,,,121.7 x 67.2 x 12.2 mm (4.79 x 2.65 x 0.48 in),,,,"3.95 inches,46.5 cm (~56.8% screen-to-body ratio)"
+Micromax,,,,,,124 x 64 x 11.6 mm (4.88 x 2.52 x 0.46 in),,,,"4.0 inches,45.5 cm (~57.4% screen-to-body ratio)"
+Micromax,,,,,,116.2 x 62 x 13.2 mm (4.57 x 2.44 x 0.52 in),,,,"3.5 inches,36.5 cm (~50.6% screen-to-body ratio)"
+Micromax,GC275,,Discontinued,,100.0,Mini-SIM,,,,,V1
+Mitac,,,,,,98 x 58.5 x 14.2 mm (3.86 x 2.30 x 0.56 in),,,, 65K colors","2.8 inches
+Mitac,,,,,,105.1 x 53.5 x 14.5 mm (4.14 x 2.11 x 0.57 in),,,, 65K colors","2.6 inches
+Mitac,,,,Discontinued,,150 g (5.29 oz),,,,"2.7 inches,41 x 54 mm
+Mitac,,,,Discontinued,, 110 cc (4.33 x 1.93 x 0.83 in)",,,, 65K colors","2.2 inches
+Mitac,,,,Cancelled,,,,,,"2.2 inches,35 x 44 mm
+Mitsubishi,M750,,,Discontinued,, 88 cc (3.78 x 1.85 x 0.94 in)",,,, 256K colors",
+Mitsubishi,M342i,,,Discontinued,, 85 cc (4.21 x 1.85 x 0.75 in)",,,, 256K colors",
+Mitsubishi,,,,Discontinued,, 87 cc (3.78 x 1.85 x 0.94 in)",,,, 256K colors",
+Mitsubishi,,,,Discontinued,, 100 cc (4.84 x 1.89 x 1.14 in)",,,, 256 colors",
+Mitsubishi,,,Discontinued,,75.0,Mini-SIM,,,,V1,
+Mitsubishi,,2000,Discontinued,,200.0,Mini-SIM,,,,"240 x 320 pixels,4:3 ratio"
+Motorola,,,,,,162.9 x 76.4 x 9.6 mm (6.41 x 3.01 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,161.9 x 75.7 x 9.1 mm (6.37 x 2.98 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,159.8 x 76.6 x 8.7 mm (6.29 x 3.02 x 0.34 in),,,, 16M colors","6.2 inches
+Motorola,,,,,,158.6 x 75.8 x 9.2 mm (6.24 x 2.98 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,161.1 x 71.4 x 9.6 mm (6.34 x 2.81 x 0.38 in),,,, 1B colors","6.7 inches
+Motorola,,,,,,164.9 x 75.8 x 9.2 mm (6.49 x 2.98 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,155.6 x 73 x 8.5 mm (6.13 x 2.87 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,161.3 x 75.8 x 9 mm (6.35 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,158.6 x 75.8 x 9.2 mm (6.24 x 2.98 x 0.36 in),,,, 16M colors","6.4 inches
+Motorola,,,,,,159.9 x 75.8 x 9.6 mm (6.30 x 2.98 x 0.38 in),,,, 16M colors","6.4 inches
+Motorola,,,,,,156 x 75.8 x 9.6 mm (6.14 x 2.98 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,161.8 x 76.6 x 8.9 mm (6.37 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,Unfolded: 172 x 72 x 6.9 mmFolded: 94 x 72 x 14mm,,,, 16M colors","6.2 inches
+Motorola,,,,,,157.6 x 75.4 x 9 mm (6.20 x 2.97 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,146.5 x 70.9 x 8.3 mm (5.77 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,158.4 x 75.8 x 9.1 mm (6.24 x 2.98 x 0.36 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,157.6 x 75.4 x 9 mm (6.20 x 2.97 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,155.6 x 73.1 x 8.6 mm (6.13 x 2.88 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,158 x 75 x 8.8 mm (6.22 x 2.95 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Motorola,,,,,,160.1 x 71.2 x 9.2 mm (6.30 x 2.80 x 0.36 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,149.7 x 72.3 x 8.6 mm (5.89 x 2.85 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,158 x 75 x 7.4 mm (6.22 x 2.95 x 0.29 in),,,,"OLED capacitive touchscreen,16M colors"
+Motorola,,,,,,160.1 x 71.2 x 8.7 mm (6.30 x 2.80 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Motorola,,,,,,249.1 x 167.8 x 12.9 mm (9.81 x 6.61 x 0.51 in),,,, 16M colors","10.1 inches
+Motorola,,,,,,249.1 x 167.8 x 12.9 mm (9.81 x 6.61 x 0.51 in),,,, 16M colors","10.1 inches
+Motorola,QUENCH,,,,,116.8 x 60 x 12.4 mm (4.60 x 2.36 x 0.49 in),,,, 65K colors","3.1 inches
+Motorola,XT701,,,,,116 x 60.9 x 10.9 mm (4.57 x 2.40 x 0.43 in),,,, 16M colors","3.7 inches
+Motorola,A910,,,Discontinued,, 88 cc (3.66 x 2.01 x 0.91 in)",,,, 256K colors",
+Motorola,E895,,,Discontinued,, 88 cc (3.66 x 2.01 x 0.91 in)",,,, 256K colors","2.2 inches
+Motorola,E1060,,,Cancelled,,125 g (4.41 oz),,,,,"320 x 240 pixels
+Motorola,C168,,,Discontinued,, 63 cc (4.11 x 1.81 x 0.55 in)",,,, 4096 colors",
+Motorola,E680i,,,Discontinued,, 105 cc (4.29 x 2.12 x 0.81 in)",,,, 65K colors","2.5 inches
+Motorola,V560,,,Cancelled,,,,,,,V1
+Motorola,V186,,,Discontinued,,92 g (3.25 oz),,,,,"128 x 128 pixels
+Motorola,V176,,,Discontinued,,,,,,,128 x 160 pixels
+Motorola,C980,,,Discontinued,,139 g (4.90 oz),,,,"1.9 inches,30 x 37 mm
+Motorola,A780,,,Discontinued,, 106 cc (4.17 x 2.09 x 0.94 in)",,,, 65K colors","2.5 inches
+Motorola,C975,,,Discontinued,, 112 cc (4.49 x 2.09 x 0.94 in)",,,, 65K colors","1.9 inches
+Motorola,V555,,,Discontinued,,120 g (4.23 oz),,,,,"176 x 220 pixels
+Motorola,A840,,,Discontinued,,115 g (4.06 oz),,,,"2.2 inches,35 x 44 mm
+Motorola,E398,,,Discontinued,,108 g (3.81 oz),,,,"1.9 inches,30 x 37 mm
+Motorola,MPx,,,Discontinued,, 140 cc (3.93 x 2.41 x 0.94 in)",,,, 65k colors","2.8 inches
+Motorola,MPx100,,,Cancelled,, 106 cc (4.49 x 1.97 x 0.87 in)",,,, 65k colors",
+Motorola,V872,,,Discontinued,, 85 cc (3.43 x 1.81 x 0.86 in)",,,, 65K colors",
+Motorola,V878,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Motorola,A925,,,Discontinued,, 175 cc (5.83 x 2.36 x 0.94 in)",,,, 65K colors",
+Motorola,A920,2003,Discontinued,,,212 g (7.48 oz),,,,,"208 x 320 pixels
+Motorola,V690,,,Discontinued,, 80 cc (3.54 x 1.85 x 0.91 in)",,,, 65K colors",
+Motorola,A835,2003,Discontinued,,,157 g (5.54 oz),,,,,176 x 220 pixels
+Motorola,T725,2003,Discontinued,,100.0,Mini-SIM,,,,"120 x 160 pixels,9 lines
+Motorola,T720i,,,Discontinued,,100 g (3.53 oz),,,,,"120 x 160 pixels
+Motorola,T720,,,Discontinued,,100 g (3.53 oz),,,,,"120 x 160 pixels
+Motorola,V70,2002,Discontinued,,83.0,Mini-SIM,,,, 3 lines + prompts,3:2 ratio"
+Motorola,C336,2002,Discontinued,,,80 g (2.82 oz),,,,"98 x 64 pixels,5 lines
+Motorola,C332,2002,Discontinued,,84.0,Mini-SIM,,,, 5 lines,3:2 ratio"
+Motorola,C331,2002,Discontinued,,83.0,Mini-SIM,,,, 5 lines,3:2 ratio"
+Motorola,V60i,,,Discontinued,, 73 cc (3.43 x 1.77 x 0.94 in)",,,,,"96 x 64 pixels
+Motorola,,2002,Discontinued,,130.0,Mini-SIM,,,, 8 lines,4:3 ratio"
+Motorola,V60,,,Discontinued,, 73 cc (3.43 x 1.77 x 0.94 in)",,,,,"96 x 64 pixels
+Motorola,,2002,Discontinued,,155.0,Mini-SIM,,,,"320 x 240 pixels,8 lines
+Motorola,,2001,Discontinued,,,109 g (3.84 oz),,,,,"128 x 100 pixels
+Motorola,,2000,Discontinued,,83.0,Mini-SIM,,,, 7 lines",V1
+Motorola,,1998,Discontinued,,95.0,Mini-SIM,,,,V1,
+Motorola,,1997,Discontinued,,112.0,Mini-SIM,,,,V1,
+Motorola,,1997,Discontinued,,112.0,Mini-SIM,Alphanumeric,,,V1,
+Motorola,,1997,Discontinued,,112.0,Mini-SIM,Alphanumeric,,,V1,
+Motorola,,1997,Discontinued,,112.0,Mini-SIM,Alphanumeric,,,V1,
+Motorola,SlimLite,1997,Discontinued,,141.0,Mini-SIM,,,,V1,
+Motorola,cd930,1998,Discontinued,,120.0,Mini-SIM,,,,"96 x 32 pixels,4 x 12 chars"
+Motorola,cd920,1998,Discontinued,,120.0,Mini-SIM,,,,"96 x 32 pixels,4 x 12 chars"
+Motorola,M3188,1999,Discontinued,,,170 g (6.00 oz),,,,"96 x 32 pixels,2 x 12 chars"
+Motorola,M3288,1999,Discontinued,,,170 g (6.00 oz),,,,"96 x 32 pixels,4 x 12 chars"
+Motorola,M3588,1999,Discontinued,,,170 g (6.00 oz),,,,"96 x 32 pixels,4 x 12 chars"
+Motorola,M3688,1999,Discontinued,,,170 g (6.00 oz),,,,,"96 x 32 pixels
+Motorola,M3788,1999,Discontinued,,,170 g (6.00 oz),,,,,"96 x 32 pixels
+Motorola,M3888,1999,Discontinued,,,170 g (6.00 oz),,,,2 x 12 chars,V1
+Motorola,,,Cancelled,,,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM,,,,"6.4 inches,100.5 cm"
+Motorola,,,Cancelled,,,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM,,,,"6.22 inches,95.0 cm"
+Motorola,P40,,Cancelled,,,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM,,,,"6.2 inches,95.1 cm (~83.5% screen-to-body ratio)"
+NEC,N401i,,,Discontinued,, 85 cc (3.54 x 1.73 x 0.91 in)",,,,"1.9 inches,30 x  37 mm
+NEC,N343i,,,Discontinued,,95 g (3.35 oz),,,,,128 x 160 pixels
+NEC,N200,,,Discontinued,,70 g (2.47 oz),,,,,128 x 160 pixels
+NEC,N923,,,Discontinued,,70 g (2.47 oz),,,,,"120 x 160 pixels
+NEC,N920,,,Discontinued,,70 g (2.47 oz),,,,,128 x 160 pixels
+NEC,e338,,,Discontinued,, 89 cc (3.69 x 1.85 x 0.92 in)",,,, 65K colors","2.0 inches
+NEC,e228,,,Discontinued,,125 g (4.41 oz),,,,"2.2 inches,35 x 44 mm
+NEC,N410i,,,Discontinued,, 103 cc (3.98 x 1.93 x 0.94 in)",,,, 65K colors","2.2 inches
+NEC,N400i,,,Discontinued,, 100 cc (3.98 x 1.93 x 0.94 in)",,,,"2.2 inches,33 x 45 mm
+NEC,N331i,,,Discontinued,, 90 cc (3.98 x 1.89 x 0.94 in)",,,, 65K colors",
+NEC,N830,,,Discontinued,,110 g (3.88 oz),,,,"2.2 inches,33 x 45 mm
+NEC,N820,,,Discontinued,, 90 cc (3.98 x 1.89 x 0.94 in)",,,, 65K colors","2.2 inches
+NEC,e606,,,Discontinued,, 140 cc (4.29 x 2.09 x 1.26 in)",,,, 65K colors",
+NEC,e232,,,Discontinued,, 97 cc (3.54 x 1.69 x 0.91 in)",,,, 65K colors",
+NEC,DB4100,2000,Discontinued,,,99 g (3.49 oz),,,,"97 x 59 pixels,5:3 ratio"
+NEC,,1997,Discontinued,,200.0,Mini-SIM,Alphanumeric,,,V1,
+Neonode,N1m,,,Discontinued,,94 g (3.32 oz),,,,"2.2 inches,35 x 44 mm
+Nokia,,,,,,171.7 x 76.7 x 8.9 mm (6.76 x 3.02 x 0.35 in),,,, 16M colors","6.52 inches
+Nokia,,,,,,150.6 x 72.4 x 9.1 mm (5.93 x 2.85 x 0.36 in),,,, 16M colors","5.45 inches
+Nokia,,,,,,150.6 x 72.4 x 9.1 mm (5.93 x 2.85 x 0.36 in),,,, 16M colors","5.45 inches
+Nokia,,,,,,132 x 50.5 x 15 mm (5.20 x 1.99 x 0.59 in),,,,"TFT,65K colors"
+Nokia,125,,,,,132 x 50.5 x 15 mm (5.20 x 1.99 x 0.59 in),,,,"TFT,65K colors"
+Nokia,,,,,,171.9 x 78.6 x 9 mm (6.77 x 3.09 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,164.3 x 76.6 x 8.5 mm (6.47 x 3.02 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,147.3 x 71.2 x 9.4 mm (5.80 x 2.80 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,"123.7 x 52.4 x 13.1 mm,,,, dual stand-by)",TFT
+Nokia,,,,,,157.7 x 75.4 x 8.7 mm (6.21 x 2.97 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,159.9 x 75.2 x 8.3 mm (6.30 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,159.9 x 75.1 x 8.3 mm (6.30 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,145.4 x 62.1 x 16.1 mm (5.72 x 2.44 x 0.63 in),,,,"TFT,256K colors"
+Nokia,,,,,,192.7 x 54.5 x 11.6 mm (7.59 x 2.15 x 0.46 in),,,,"TFT,256K colors"
+Nokia,,,,,,121.3 x 52.9 x 13.4 mm (4.78 x 2.08 x 0.53 in),,,,"TFT,256K colors"
+Nokia,,,,,,115.2 x 49.9 x 14.3 mm (4.54 x 1.96 x 0.56 in),,,,"TFT,65K colors"
+Nokia,,,,,,119 x 49.2 x 14.4 mm (4.69 x 1.94 x 0.57 in),,,,"TFT,65K colors"
+Nokia,,,,,,152.7 x 71.9 x 9.4 mm (6.01 x 2.83 x 0.37 in),,,, 16M colors","5.45 inches
+Nokia,,,,,,152.7 x 71.9 x 9.4 mm (6.01 x 2.83 x 0.37 in),,,, 16M colors","5.45 inches
+Nokia,,,,,,146 x 70.6 x 9.3 mm (5.75 x 2.78 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Nokia,,,,,,111 x 51 x 13.8 mm (4.37 x 2.01 x 0.54 in),,,, 16M colors","3.2 inches
+Nokia,,,,,,111 x 51 x 13.8 mm (4.37 x 2.01 x 0.54 in),,,, 16M colors","3.2 inches
+Nokia,,,,,,111 x 51 x 13.8 mm (4.37 x 2.01 x 0.54 in),,,, 16M colors","3.2 inches
+Nokia,,,,,,92 x 47 x 20 mm (3.62 x 1.85 x 0.79 in),,,, 16M colors","2.2 inches
+Nokia,,,Cancelled,,,"Hybrid Dual SIM (Nano-SIM,,,,"6.22 inches,90.4 cm"
+O2,Cosmo,,,Discontinued,,130 g (4.59 oz),,,,"2.4 inches,50 x 37 mm
+O2,,,,Discontinued,,106 g (3.74 oz),,,,"2.2 inches,34 x 45 mm
+O2,X1b,,,Discontinued,,86 g (3.03 oz),,,,,"128 x 128 pixels
+O2,XM,,,Discontinued,,91 g (3.21 oz),,,,,176 x 220 pixels
+O2,X4,,,Discontinued,,116 g (4.09 oz),,,,,176 x 220 pixels
+O2,,,,Discontinued,,210 g (7.41 oz),,,,"3.5 inches,53 x 71 mm
+O2,,,,Discontinued,,190 g (6.70 oz),,,,"3.5 inches,53 x 71 mm
+O2,,,,Discontinued,,102 g (3.60 oz),,,,"2.2 inches,35 x 44 mm
+O2,,2003,Discontinued,,190.0,Mini-SIM,,,, 53 x 71 mm,37.9 cm (~41.7% screen-to-body ratio)"
+O2,Xphone,2003,Discontinued,,130.0,Mini-SIM,,,, 35 x 44 mm,15.2 cm (~25.4% screen-to-body ratio)"
+O2,XDA,2003,Discontinued,,201.0,Mini-SIM,,,, 53 x 71 mm,37.9 cm (~40.3% screen-to-body ratio)"
+OnePlus,,,,,,160.2 x 72.9 x 8 mm (6.31 x 2.87 x 0.31 in),,,, 16M colors","6.55 inches
+OnePlus,,,,,,160.2 x 72.9 x 8 mm (6.31 x 2.87 x 0.31 in),,,, 16M colors","6.55 inches
+OnePlus,,,,,,162.6 x 75.9 x 8.8 mm (6.40 x 2.99 x 0.35 in),,,,"Fluid AMOLED capacitive touchscreen,16M colors"
+OnePlus,,,,,,162.6 x 75.9 x 8.8 mm (6.40 x 2.99 x 0.35 in),,,,"Fluid AMOLED capacitive touchscreen,16M colors"
+OnePlus,7T,,,,,160.9 x 74.4 x 8.1 mm (6.33 x 2.93 x 0.32 in),,,,"Fluid AMOLED capacitive touchscreen,16M colors"
+OnePlus,,,,,,162.6 x 75.9 x 8.8 mm (6.40 x 2.99 x 0.35 in),,,,"Fluid AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,159.6 x 72.5 x 7.6 mm (6.28 x 2.85 x 0.30 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,159.3 x 74 x 7.8 mm (6.27 x 2.91 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,159.4 x 72.4 x 7.7 mm (6.28 x 2.85 x 0.30 in),,,, 16M colors","6.5 inches
+Oppo,A92s,,,,,163.8 x 75.5 x 8.1 mm (6.45 x 2.97 x 0.32 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Oppo,,,,,,160.3 x 74.3 x 8 mm (6.31 x 2.93 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,Ace2,,,,,160 x 75.4 x 8.6 mm (6.30 x 2.97 x 0.34 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,A12e,,,,,156.2 x 75.6 x 8.2 mm (6.15 x 2.98 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Oppo,Reno3,,,,,160.2 x 73.3 x 7.9 mm (6.31 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,165.2 x 74.4 x 8.8 mm (Ceramic) / 9.5mm (Leather),,,,"AMOLED capacitive touchscreen,1B colors"
+Oppo,,,,,,164.9 x 74.5 x 8 mm (6.49 x 2.93 x 0.31 in),,,,"AMOLED capacitive touchscreen,1B colors"
+Oppo,,,,,,158.8 x 73.4 x 8.1 mm (6.25 x 2.89 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Oppo,F15,,,,,160.2 x 73.3 x 7.9 mm (6.31 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,159.4 x 72.4 x 7.7 mm (6.28 x 2.85 x 0.30 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,160.3 x 74.3 x 8 mm (6.31 x 2.93 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,160.3 x 74.3 x 8 mm (6.31 x 2.93 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,A91,,,,,160.2 x 73.3 x 7.9 mm (6.31 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,A8,,,,,163.9 x 75.5 x 8.3 mm (6.45 x 2.97 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Oppo,,,,,,161 x 75.7 x 8.7 mm (6.34 x 2.98 x 0.34 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,158.4 x 75.4 x 7.8 mm (6.24 x 2.97 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,163.6 x 75.4 x 9.1 mm (6.44 x 2.97 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Oppo,,,,,,163.6 x 75.6 x 9.1 mm (6.44 x 2.98 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Oppo,Reno2,,,,,160 x 74.3 x 9.5 mm (6.30 x 2.93 x 0.37 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,162.4 x 75.8 x 8.7 mm (6.39 x 2.98 x 0.34 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,162.4 x 75.8 x 8.7 mm (6.39 x 2.98 x 0.34 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,,,,,,157.3 x 74.9 x 9.1 mm (6.19 x 2.95 x 0.36 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,A9x,,,,,162 x 76.1 x 8.3 mm (6.38 x 3.00 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Oppo,,,,,,162 x 77.2 x 9.3 mm (6.38 x 3.04 x 0.37 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Oppo,A1k,,,,,154.5 x 73.8 x 8.4 mm (6.08 x 2.91 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Oppo,,,,,,156.2 x 75.6 x 8.2 mm (6.15 x 2.98 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Oppo,,,,,,131.9 x 65.5 x 8 mm (5.19 x 2.58 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Orange,,,,,,159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Orange,Gova,,,,,7.9 mm thickness,,,, 16M colors","4.5 inches
+Palm,,,,Discontinued,,178 g (6.28 oz),,,,"2.4 inches,44 x 44 mm
+Panasonic,,,,,,148.8 x 70.9 x 9.3 mm (5.86 x 2.79 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Panasonic,,,,,,123 x 62 x 7.8 mm (4.84 x 2.44 x 0.31 in),,,, 16M colors","4.3 inches
+Panasonic,VS7,,,Discontinued,, 89 cc (4.02 x 2.01 x 0.74 in)",,,, 16M colors",
+Panasonic,MX7,,,Discontinued,, 118 cc (4.02 x 2.01 x 1.02 in)",,,, 16M colors",
+Panasonic,SA7,,,Discontinued,, 116 cc (4.02 x 2.09 x 1.02 in)",,,, 16M colors",
+Panasonic,X70,,,Discontinued,, 80 cc (3.43 x 1.85 x 0.94 in)",,,, 65K colors",
+Panasonic,GD87,,,Discontinued,,103 g (3.63 oz),,,,,"132 x 176 pixels
+Panasonic,GD67,2002,Discontinued,,,81 g (2.86 oz),,,,,"101 x 80 pixels
+Panasonic,GD75,2001,Discontinued,,,82 g (2.89 oz),,,,6 lines,V1
+Panasonic,GD35,2001,Discontinued,,109.0,Mini-SIM,,,,V1,
+Panasonic,GD93,2000,Discontinued,,80.0,Mini-SIM,,,,V1,
+Panasonic,GD30,1999,Discontinued,,135.0,Mini-SIM,,,,V1,
+Pantech,Crux,,,,,109 x 58 x 13 mm (4.29 x 2.28 x 0.51 in),,,, 256K colors","3.0 inches
+Pantech,,,,,,113.8 x 57.9 x 10 mm (4.48 x 2.28 x 0.39 in),,,, 256K colors","3.1 inches
+Pantech,GF100,,,Discontinued,,85 g (3.00 oz),,,,,"128 x 128 pixels
+Pantech,GF200,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Pantech,GB100,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Philips,W5510,,,,,116.2 x 63 x 13 mm (4.57 x 2.48 x 0.51 in),,,,"3.5 inches,36.5 cm (~49.8% screen-to-body ratio)"
+Philips,W6350,,,,,125.2 x 63.9 x 11.5 mm (4.93 x 2.52 x 0.45 in),,,,"4.0 inches,45.5 cm (~56.9% screen-to-body ratio)"
+Philips,W930,,,,,110 x 57.8 x 22 mm (4.33 x 2.28 x 0.87 in),,,, 256K colors","3.2 inches
+Philips,362,,,Discontinued,, 75 cc (3.94 x 1.77 x 0.71 in)",,,, 65K colors",
+Philips,868,,,Cancelled,,110 g (3.88 oz),,,,,"128 x 160 pixels
+Philips,859,,,Discontinued,, 77 cc (3.46 x 1.81 x 0.91 in)",,,, 65K colors",
+Philips,,2002,Discontinued,,,85 g (3.00 oz),,,,"101 x 80 pixels,8 lines"
+Philips,,2002,Discontinued,,,85 g (3.00 oz),,,,"101 x 80 pixels,8 lines"
+Philips,,2001,Discontinued,,90.0,Mini-SIM,,,,V1,
+Philips,,2000,Discontinued,,99.0,Mini-SIM,,,,V1,
+Philips,,2000,Discontinued,,,125 g (4.41 oz),,,,5 lines,V1
+Philips,Diga,1997,Discontinued,,179.0,Mini-SIM,Alphanumeric,,,V1,
+Philips,Fizz,1996,Discontinued,,169.0,Mini-SIM,Alphanumeric,,,V1,
+Plum,,,,,,111.5 x 57.5 x 22 mm (4.39 x 2.26 x 0.87 in),,,,"TFT,256K colors"
+Qtek,8600,,,Discontinued,,120 g (4.23 oz),,,,"2.2 inches,34 x 45 mm
+Qtek,8300,,,Discontinued,,106 g (3.74 oz),,,,"2.2 inches,34 x 45 mm
+Qtek,8080,,,Discontinued,, 105 cc (4.72 x 1.97 x 0.93 in)",,,, 65K colors","2.2 inches
+Qtek,8060,,,Discontinued,, 105 cc (4.72 x 1.97 x 0.93 in)",,,, 65K colors","2.2 inches
+Qtek,1010,2003,Discontinued,,201.0,Mini-SIM,,,, 53 x 71 mm,37.9 cm (~40.3% screen-to-body ratio)"
+Qtek,7070,,,Discontinued,, 105 cc (4.72 x 1.97 x 0.93 in)",,,, 65K colors","2.2 inches
+Realme,,,,,,163.8 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,6S,,,,,162.1 x 74.8 x 8.9 mm (6.38 x 2.94 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,159 x 74.2 x 8.9 mm (6.26 x 2.92 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Realme,,,,,,164.4 x 75.4 x 9 mm (6.47 x 2.97 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,164.4 x 75 x 9 mm (6.47 x 2.95 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,163.8 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,6i,,,,,164.4 x 75.4 x 9 mm (6.47 x 2.97 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,163.8 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,159 x 74.2 x 8.9 mm (6.26 x 2.92 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Realme,,,,,,164.4 x 75 x 9 mm (6.47 x 2.95 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,163.8 x 75.8 x 8.9 mm (6.45 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,5i,,,,,164.4 x 75 x 9.3 mm (6.47 x 2.95 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,5s,,,,,164.4 x 75.6 x 9.3 mm (6.47 x 2.98 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,C2s,,,,,154.3 x 73.7 x 8.5 mm (6.07 x 2.90 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,154.3 x 73.7 x 8.5 mm (6.07 x 2.90 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,161 x 75.7 x 8.7 mm (6.34 x 2.98 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Realme,,,Cancelled,,183.0,"Dual SIM (Nano-SIM,,,,"6.4 inches,100.5 cm (~84.3% screen-to-body ratio)"
+Realme,XT,,,,,158.7 x 75.2 x 8.6 mm (6.25 x 2.96 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Realme,,,,,,157 x 74.2 x 8.9 mm (6.18 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,3i,,,,,156.1 x 75.6 x 8.3 mm (6.15 x 2.98 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Realme,,,,,,156.8 x 74.2 x 8.3 mm (6.17 x 2.92 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Sagem,,,,Discontinued,,87 g (3.07 oz),,,,,128 x 160 pixels
+Sagem,my230x,,,Discontinued,,65 g (2.29 oz),,,,"1.8 inches,10.2 cm (~20.9% screen-to-body ratio)"
+Sagem,my900C,,,Cancelled,,115 g (4.06 oz),,,,,"240 x 320 pixels
+Sagem,my500X,,,Discontinued,,90 g (3.17 oz),,,,,176 x 220 pixels
+Sagem,my400V,,,Cancelled,,85 g (3.00 oz),,,,,128 x 160 pixels
+Sagem,my301X,,,Discontinued,,88 g (3.10 oz),,,,"1.7 inches,9.3 cm (~19.3% screen-to-body ratio)"
+Sagem,my200x,,,Discontinued,,76 g (2.68 oz),,,,,101 x 80 pixels
+Sagem,my100X,,,Discontinued,,76 g (2.68 oz),,,,101 x 64 pixels,V1
+Sagem,,,,Discontinued,, 70 cc (2.87 x 1.65 x 0.83 in)",,,, 4096 colors",
+Sagem,,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,, 70 cc (3.03 x 1.61 x 0.87 in)",,,, 65K colors",
+Sagem,,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,104 g (3.67 oz),,,,"2.0 inches,31 x 39 mm
+Sagem,,,,Discontinued,,88 g (3.10 oz),,,,101 x 80 pixels,V1
+Sagem,,,,Discontinued,,80 g (2.82 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,93 g (3.28 oz),,,,"96 x 64 pixels,3:2 ratio"
+Sagem,,,,Discontinued,,125 g (4.41 oz),,,,"2.2 inches,34 x 45 mm
+Sagem,,,,Discontinued,,95 g (3.35 oz),,,,,"120 x 160 pixels
+Sagem,,,,Discontinued,, 110 cc (4.33 x 1.93 x 0.83 in)",,,, 65K colors","2.2 inches
+Sagem,,,,Discontinued,,105 g (3.70 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,80 g (2.82 oz),,,,,"101 x 80 pixels
+Sagem,,,,Discontinued,,105 g (3.70 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,97 g (3.42 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,97 g (3.42 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,106 g (3.74 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,, 111 cc (4.33 x 1.81 x 0.87 in)",,,, 65K colors",
+Sagem,,,,Discontinued,,106 g (3.74 oz),,,,,128 x 160 pixels
+Sagem,,,,Discontinued,,80 g (2.82 oz),,,,"96 x 64 pixels,7 lines
+Sagem,,,,Discontinued,,93 g (3.28 oz),,,,"64 x 96 pixels,7 lines
+Sagem,,,,Discontinued,,90 g (3.17 oz),,,,,"101 x 80 pixels
+Sagem,,,,Discontinued,,86 g (3.03 oz),,,,,"160 x 120 pixels
+Sagem,,,,Discontinued,,80 g (2.82 oz),,,,,"101 x 80 pixels
+Sagem,,,,Discontinued,,89 g (3.14 oz),,,,,"101 x 80 pixels
+Sagem,,,,Discontinued,, 111 cc (4.33 x 1.81 x 0.87 in)",,,, 65K colors",
+Sagem,,2002,Discontinued,,,92 g (3.25 oz),,,,,"101 x 80 pixels
+Sagem,,2002,Discontinued,,,92 g (3.25 oz),,,,"96 x 64 pixels,3:2 ratio"
+Sagem,,2002,Discontinued,,,92 g (3.25 oz),,,,,"101 x 80 pixels
+Sagem,,2002,Discontinued,,85.0,Mini-SIM,,,, 8 lines,3:2 ratio"
+Sagem,,2001,Discontinued,,112.0,Mini-SIM,,,,V1,
+Sagem,,2001,Discontinued,,100.0,Mini-SIM,,,,V1,
+Sagem,,2001,Discontinued,,,97 g (3.42 oz),,,,up to 8 lines,V1
+Sagem,,2001,Discontinued,,,97 g (3.42 oz),,,,up to 8 lines,V1
+Sagem,,2001,Discontinued,,180.0,Mini-SIM,,,, up to 8 lines,17:9 ratio"
+Sagem,,2001,Discontinued,,198.0,Mini-SIM,,,, 60 x 80 mm,4:3 ratio"
+Sagem,,2001,Discontinued,,,112 g (3.95 oz),,,,up to 7 lines,V1
+Sagem,,2001,Discontinued,,,112 g (3.95 oz),,,,up to 7 lines,V1
+Sagem,,2000,Discontinued,,117.0,Mini-SIM,,,,V1,
+Sagem,,2000,Discontinued,,117.0,Mini-SIM,,,,V1,
+Sagem,,2000,Discontinued,,95.0,Mini-SIM,,,,V1,
+Sagem,,2000,Discontinued,,95.0,Mini-SIM,,,,V1,
+Sagem,,2000,Discontinued,,117.0,Mini-SIM,,,,V1,
+Sagem,,1999,Discontinued,,117.0,Mini-SIM,,,,V1,
+Sagem,,1999,Discontinued,,121.0,Mini-SIM,Alphanumeric,,,V1,
+Sagem,,1999,Discontinued,,117.0,Mini-SIM,Alphanumeric,,,V1,
+Sagem,,1998,Discontinued,,137.0,Mini-SIM,,,,V1,
+Sagem,,1998,Discontinued,,152.0,Mini-SIM,Alphanumeric,,,V1,
+Sagem,,1998,Discontinued,,135.0,Mini-SIM,Alphanumeric,,,V1,
+Sagem,,1998,Discontinued,,158.0,Mini-SIM,Alphanumeric,,,V1,
+Sagem,,1997,Discontinued,,158.0,Mini-SIM,Alphanumeric,,,V1,
+Samsung,,,,,,208.3 x 137.9 x 7.4 mm (8.20 x 5.43 x 0.29 in),,,, 16M colors","8.0 inches
+Samsung,E1260B,,,,,103 x 59 x 12 mm (4.06 x 2.32 x 0.47 in),,,, 65K colors","2.0 inches
+Samsung,,,,,,125 x 58 x 12 mm (4.92 x 2.28 x 0.47 in),,,, 16M colors","3.4 inches
+Samsung,Focus,,,,,124.7 x 64.3 x 9.9 mm (4.91 x 2.53 x 0.39 in),,,, 16M colors","4.0 inches
+Samsung,P940,,,Cancelled,,,,,,"2.15 inches,14.3 cm"
+Samsung,D550,,,Cancelled,,119 g (4.20 oz),,,,"2.3 inches,35 x 46 mm
+Samsung,P860,,,Cancelled,,,,,,,"320 x 240 pixels
+Samsung,Z700,,,Cancelled,,125 g (4.41 oz),,,,,"320 x 240 pixels
+Samsung,D710,,,Cancelled,,110 g (3.88 oz),,,,,208 x 176 pixels
+Samsung,i530,,,Cancelled,,145 g (5.11 oz),,,,,"162 x 176 pixels (324 x 352 support)
+Samsung,i505,,,Cancelled,,147 g (5.19 oz),,,,,"162 x 176 pixels (324 x 352 support)
+Samsung,i250,,,Cancelled,,130 g (4.59 oz),,,,,176 x 220 pixels
+Samsung,X900,,,Cancelled,,116 g (4.09 oz),,,,,176 x 220 pixels
+Samsung,E410,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Samsung,P705,,,Cancelled,,130 g (4.59 oz),,,,,176 x 220 pixels
+Samsung,D700,,,Cancelled,,110 g (3.88 oz),,,,,176 x 208 pixels
+Samsung,P500,,,Cancelled,,93 g (3.28 oz),,,,,128 x 160 pixels
+Samsung,,,,Cancelled,,80 g (2.82 oz),,,,,"94 x 64 pixels
+Samsung,T400,,,Discontinued,,80 g (2.82 oz),,,,,128 x 144 pixels
+Samsung,Q300,2002,Discontinued,,89.0,Mini-SIM,,,,"16 lines,128 x 128 pixels"
+Samsung,Q200,2002,Discontinued,,90.0,Mini-SIM,,,,"128 x 128 pixels,1:1 ratio"
+Samsung,A400,,,Discontinued,,80 g (2.82 oz),,,,,"128 x  96 pixels
+Samsung,Q100,2001,Discontinued,,85.0,Mini-SIM,,,, 1:1 ratio",V1
+Samsung,,1996,Discontinued,,179.0,Mini-SIM,Alphanumeric,,,V1,
+Sendo,P600,,,Discontinued,, 76 cc (4.25 x 1.77 x 0.79 in)",,,, 65K colors",
+Sendo,SV663,,,Discontinued,, 76 cc (4.25 x 1.77 x 0.77 in)",,,, 65K colors",
+Sendo,M570,,,Discontinued,, 68 cc (3.23 x 1.77 x 0.79 in)",,,, 65K colors",
+Sendo,S330,,,Discontinued,, 79 cc (4.25 x 1.85 x 0.83 in)",,,, 4096 colors",
+Sendo,J520,,,Discontinued,, 79 cc (4.45 x 1.97 x 0.98 in)",,,,,"96 x 64 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,128 x 160 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,176 x 220 pixels
+Sewon,,,,Discontinued,,95 g (3.35 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,90 g (3.17 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,80 g (2.82 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,72 g (2.54 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,72 g (2.54 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,72 g (2.54 oz),,,,,"128 x 128 pixels
+Sewon,,,,Discontinued,,82 g (2.89 oz),,,,,101 x 80 pixels
+Sharp,,,,,,158 x 74 x 8.8 mm (6.22 x 2.91 x 0.35 in),,,, 1B colors","6.4 inches
+Sharp,,,,,,157 x 76 x 9 mm (6.18 x 2.99 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Sharp,,,,,,119 x 53 x 16.6 mm (4.69 x 2.09 x 0.65 in),,,, 16M colors","4.0 inches
+Sharp,940SH,,,,,111 x 51 x 16 mm (4.37 x 2.01 x 0.63 in),,,, 16M colors","3.4 inches
+Sharp,550SH,,,Discontinued,,98 g (3.46 oz),,,,"2.0 inches,30 x 40 mm
+Sharp,GX17,,,Discontinued,,85 g (3.00 oz),,,,"1.9 inches,11.2 cm (~23.2% screen-to-body ratio)"
+Sharp,GX40,,,Discontinued,,98 g (3.46 oz),,,,,"240 x 320 pixels
+Sharp,,,,Discontinued,,90 g (3.17 oz),,,,,"320 x 240 pixels
+Sharp,TM150,,,Discontinued,,113 g (3.99 oz),,,,"2.2 inches,33 x 45 mm
+Sharp,GX30,,,Discontinued,,110 g (3.88 oz),,,,"2.2 inches,33 x 45 mm
+Sharp,GX22,,,Discontinued,,102 g (3.60 oz),,,,,"240 x 320 pixels
+Sharp,GX20,,,Discontinued,,102 g (3.60 oz),,,,,"240 x 320 pixels
+Sharp,GX10i,,,Discontinued,,110 g (3.88 oz),,,,,"120 x 160 pixels
+Sharp,GX10,,,Discontinued,,110 g (3.88 oz),,,,,"120 x 160 pixels
+Sharp,GX1,,,Discontinued,,110 g (3.88 oz),,,,,"120 x 160 pixels
+Siemens,CX70,,,Discontinued,,90 g (3.17 oz),,,,,"132 x 176 pixels
+Siemens,PenPhone,,,Cancelled,,-,,,,,V1
+Siemens,ST60,,,Discontinued,, 76 cc (3.90 x 1.93 x 0.87 in)",,,, 65K colors",
+Siemens,U15,,,Discontinued,, 140 cc (5.35 x 2.09 x 0.94 in)",,,, 65K colors",
+Siemens,ST55,,,Discontinued,,87 g (3.07 oz),,,,,"120 x 160 pixels
+Siemens,,,,Discontinued,, 72 cc (3.98 x 1.81 x 0.75 in)",,,,,101 x 64 pixels
+Siemens,,,,Discontinued,, 78 cc (3.90 x 2.20 x 0.79 in)",,,,,"101 x 65 pixels
+Siemens,,,,Discontinued,, 48 cc (2.91 x 1.69 x 0.79 in)",,,,,"101 x 56 pixels
+Siemens,,,,Discontinued,, 70 cc (3.90 x 2.09 x 0.75 in)",,,,,"101 x 65 pixels
+Siemens,M55,,,Discontinued,,83 g (2.93 oz),,,,,"101 x 80 pixels
+Siemens,SL55,,,Discontinued,, 63 cc (3.23 x 1.77 x 0.87 in)",,,, 4096 colors",
+Siemens,S55,2002,Discontinued,,,85 g (3.00 oz),,,,,"101 x 80 pixels
+Siemens,SX45,2001,Discontinued,,,330 g (11.64 oz),,,,,"240 x 320 pixels
+Siemens,SL45i,2001,Discontinued,,,88 g (3.10 oz),,,, 24 x 29 mm,7.1 cm (~14.6% screen-to-body ratio)"
+Siemens,SL42,2001,Discontinued,,,88 g (3.10 oz),,,, 24 x 29 mm,7.1 cm (~14.6% screen-to-body ratio)"
+Siemens,SL45,2000,Discontinued,,,88 g (3.10 oz),,,, 24 x 29 mm,7.1 cm (~14.6% screen-to-body ratio)"
+Siemens,A36,2000,Discontinued,,120.0,Mini-SIM,Alphanumeric,,,V1,
+Siemens,M30,2000,Discontinued,,,110 g (3.88 oz),,,,2 x 12 chars,V1
+Siemens,C28,2000,Discontinued,,,135 g (4.76 oz),,,,3 x 12 chars,V1
+Sony,,,,,,165.1 x 71.1 x 7.6 mm (6.5 x 2.80 x 0.30 in),,,,"OLED capacitive touchscreen,1B colors"
+Sony,,,,,,157 x 69 x 8.2 mm (6.18 x 2.72 x 0.32 in),,,,"OLED capacitive touchscreen,16M colors"
+Sony,,,,,,159 x 71 x 8.7 mm (6.26 x 2.80 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Sony,,,,,,158 x 68 x 8.2 mm (6.22 x 2.68 x 0.32 in),,,,"OLED capacitive touchscreen,16M colors"
+Sony,,,,Discontinued,, 90 cc (3.58 x 1.97 x 0.98 in)",,,, 4 shades",
+Sony,,,,Discontinued,,92 g (3.25 oz),,,,,"96 x 92 pixels
+Sony,,,,Discontinued,,92 g (3.25 oz),,,,,"96 x 92 pixels
+Sony,,,Discontinued,,,110 g (3.88 oz),,,,,"96 x 72 pixels
+Sony,,2001,Discontinued,,82.0,Mini-SIM,,,,"96 x 92 pixels,6 lines
+Sony,,1997,Discontinued,,,195 g (6.88 oz),,,,"97 x 32 pixels,5 lines"
+Sony,,1997,Discontinued,,,220 g (7.76 oz),,,,"97 x 32 pixels,5 lines"
+Sony,,1997,Discontinued,,,185 g (6.53 oz),,,,"97 x 33 pixels,4 x 16 chars"
+Sony,,1997,Discontinued,,235.0,Mini-SIM,,,,V1,
+,Z700,,,Cancelled,, 90 cc (3.58 x 1.97 x 0.94 in)",,,, 256 colors",
+,,,Cancelled,,,Mini-SIM,,,,,Accelerometer
+Spice,,,,,,116.5 x 58.4 x 12.7 mm (4.59 x 2.30 x 0.5 in),,,, 256K colors","2.8 inches
+,,,,,,158.5 x 75.2 x 8.6 mm (6.24 x 2.96 x 0.34 in),,,, 16M colors","6.24 inches
+,Revvlry,,,,,148.6 x 71.4 x 8.1 mm (5.85 x 2.81 x 0.32 in),,,, 16M colors","5.7 inches
+TCL,,,,,,163.7 x 76.6 x 9 mm (6.44 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TCL,,,,,,158.5 x 72.4 x 9.2 mm (6.24 x 2.85 x 0.36 in),,,,"AMOLED capacitive touchscreen,16M colors"
+TCL,10L,,,,,162.2 x 75.6 x 8.4 mm (6.39 x 2.98 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TCL,Plex,,,,,162.2 x 76.6 x 8 mm (6.39 x 3.02 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,174.9 x 79.6 x 9.2 mm (6.89 x 3.13 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,174.6 x 79.3 x 9.1 mm (6.87 x 3.12 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,164.7 x 76.3 x 8.8 mm (6.48 x 3.00 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,163.3 x 77.7 x 9.1 mm (6.43 x 3.06 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,164.5 x 76.5 x 9 mm (6.48 x 3.01 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,163.3 x 77.7 x 9.1 mm (6.43 x 3.06 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,164.1 x 76.4 x 8.8 mm (6.46 x 3.01 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,164.2 x 76.1 x 8.2 mm (6.46 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,166.7 x 75.8 x 8.4 mm (6.56 x 2.98 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,166.7 x 75.8 x 8.4 mm (6.56 x 2.98 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,158.6 x 75.5 x 7.8 mm (6.24 x 2.97 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+TECNO,,,,,,166 x 75.8 x 8.2 mm (6.54 x 2.98 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,163 x 78.2 x 9.3 mm (6.42 x 3.08 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,159 x 76 x 9.2 mm (6.26 x 2.99 x 0.36 in),,,,"AMOLED capacitive touchscreen,16M colors"
+TECNO,,,,,,157.6 x 76.7 x 8.5 mm (6.20 x 3.02 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,155.3 x 75.8 x 8.2 mm (6.11 x 2.98 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,154.3 x 75.5 x 7.9 mm (6.07 x 2.97 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,156.1 x 75 x 9.2 mm (6.15 x 2.95 x 0.36 in),,,, 16M colors","6.1 inches
+TECNO,,,,,,149.8 x 72.8 x 9.4 mm (5.90 x 2.87 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,161.7 x 78.9 x 9.6 mm (6.37 x 3.11 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+TECNO,,,,,,158.5 x 75.3 x 7.9 mm (6.24 x 2.96 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+,T918,2003,Discontinued,,125.0,Mini-SIM,,,,128 x 160 pixels,V1
+,T919i,2003,Discontinued,,134.0,Mini-SIM,,,,"128 x 256 pixels,18:9 ratio"
+,T919,2003,Discontinued,,115.0,Mini-SIM,,,,"256 x 128 pixels,18:9 ratio"
+,T909c,,Discontinued,,80.0,Mini-SIM,,,, 16:9 ratio",V1
+Telit,C1000,,,Discontinued,,74.5 g (2.61 oz),,,,,128 x 160 pixels
+Telit,T91,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Telit,T90,,,Discontinued,,85 g (3.00 oz),,,,,128 x 160 pixels
+Telit,NEO,,,Discontinued,,65 g (2.29 oz),,,,,"128 x 128 pixels
+Telit,G83,,,Discontinued,,90 g (3.17 oz),,,,,128 x 160 pixels
+Telit,G80,,,Discontinued,,96 g (3.39 oz),,,,,"160 x 120 pixels
+Telit,G82,2002,Discontinued,,90.0,Mini-SIM,,,,"128 x 96 pixels,4:3 ratio"
+Telit,G40,,,Discontinued,,75 g (2.65 oz),,,,101 x 80 pixels,V1
+Telit,,2002,Discontinued,,100.0,Mini-SIM,,,, 18.5:9 ratio",V1
+Telit,,1999,Discontinued,,105.0,Mini-SIM,,,,V1,
+Telit,Estremo,1999,Discontinued,,176.0,Mini-SIM,,,,V1,
+Telit,,1999,Discontinued,,105.0,Mini-SIM,,,,V1,
+Ulefone,,,,,,141.7 x 66.5 x 12 mm (5.58 x 2.62 x 0.47 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,150 x 78.9 x 14.6 mm (5.91 x 3.11 x 0.57 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,165.9 x 81 x 13.6 mm (6.53 x 3.19 x 0.54 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,150 x 78.9 x 14.6 mm (5.91 x 3.11 x 0.57 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,165.9 x 81 x 13.6 mm (6.53 x 3.19 x 0.54 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,150 x 78.9 x 14.4 mm (5.91 x 3.11 x 0.57 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,166 x 83 x 13.3 mm (6.54 x 3.27 x 0.52 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,164.8 x 79.2 x 18.2 mm (6.49 x 3.12 x 0.72 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,164.8 x 79.2 x 18.2 mm (6.49 x 3.12 x 0.72 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,150 x 78.9 x 14.4 mm (5.91 x 3.11 x 0.57 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,T2,,,,,167.6 x 80.3 x 8.7 mm (6.60 x 3.16 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,158 x 77.5 x 13.9 mm (6.22 x 3.05 x 0.55 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,158.3 x 76 x 12.6 mm (6.23 x 2.99 x 0.50 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,166 x 83 x 13.3 mm (6.54 x 3.27 x 0.52 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,156.1 x 73.7 x 9.7 mm (6.15 x 2.90 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,S11,,,,,156.1 x 73.7 x 9.7 mm (6.15 x 2.90 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,156.1 x 73.7 x 9.7 mm (6.15 x 2.90 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,163 x 76.6 x 13.9 mm (6.42 x 3.02 x 0.55 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,S1,,,,,148.6 x 70.7 x 9.6 mm (5.85 x 2.78 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,163 x 76.6 x 13.9 mm (6.42 x 3.02 x 0.55 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,,,159 x 78.3 x 14.5 mm (6.26 x 3.08 x 0.57 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Ulefone,,,,Cancelled,,159 g (5.61 oz),,,, 16M colors","6.7 inches
+Unnecto,,,,,,125.5 x 65 x 9.4 mm (4.94 x 2.56 x 0.37 in),,,,"4.0 inches,45.5 cm (~55.8% screen-to-body ratio)"
+Unnecto,,,,,,116 x 61 x 11.5 mm (4.57 x 2.40 x 0.45 in),,,,"3.5 inches,36.5 cm (~51.5% screen-to-body ratio)"
+Unnecto,Drone,,,,,102.6 x 56.4 x 12.4 mm (4.04 x 2.22 x 0.49 in),,,,"3.2 inches,
+Vertu,,,,,,"115.5 x 49 x 13.1 mm,,,,"TFT,16M colors"
+vivo,,,,,,159 x 74.2 x 8.5 mm (6.26 x 2.92 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,162.4 x 77.3 x 8.9 mm (6.39 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,158.5 x 72.8 x 8 mm (6.24 x 2.87 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,158.5 x 72.8 x 8 mm (6.24 x 2.87 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+vivo,Y70s,,,,,162 x 76.6 x 8.5 mm (6.38 x 3.02 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,164 x 75.6 x 8.9 mm (6.46 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,159.3 x 75.2 x 8.7 mm (6.27 x 2.96 x 0.34 in),,,,"AMOLED capacitive touchscreen,16M colors"
+vivo,Y30,,,,,162 x 76.5 x 9.1 mm (6.38 x 3.01 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,163.7 x 75.6 x 8.9 mm (6.44 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,Y50,,,,,162 x 76.5 x 9.1 mm (6.38 x 3.01 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,V19,,,,,159.6 x 75 x 8.5 mm (6.28 x 2.95 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,161.2 x 74.7 x 8.7 mm (6.35 x 2.94 x 0.34 in),,,,"AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,167.4 x 76.1 x 9.4 mm (6.59 x 3.00 x 0.37 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,159 x 74.2 x 8.5 mm (6.26 x 2.92 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,164 x 75.1 x 9.2 mm (6.46 x 2.96 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,158.5 x 74.9 x 9.2 mm (6.24 x 2.95 x 0.36 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,158.5 x 74.1 x 8.8 mm (6.24 x 2.92 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,X30,,,,,158.5 x 74.1 x 8.8 mm (6.24 x 2.92 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,V17,,,,,159 x 74.2 x 8.5 mm (6.26 x 2.92 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,159.5 x 75.2 x 8.1 mm (6.28 x 2.96 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,Z5i,,,,,162.2 x 76.5 x 8.9 mm (6.39 x 3.01 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,159.3 x 75.2 x 8.7 mm (6.27 x 2.96 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,159.3 x 75.2 x 8.7 mm (6.27 x 2.96 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,159.4 x 76.7 x 8.9 mm (6.28 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,Y19,,,,,162.2 x 76.5 x 8.9 mm (6.39 x 3.01 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,159.5 x 75.2 x 8.1 mm (6.28 x 2.96 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,159.4 x 76.8 x 8.9 mm (6.28 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,159.4 x 76.7 x 8.9 mm (6.28 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,Y3,,,,,159.4 x 76.7 x 8.9 mm (6.28 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,167.4 x 76.1 x 9.4 mm (6.59 x 3.00 x 0.37 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,159 x 74.7 x 9.8 mm (6.26 x 2.94 x 0.39 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,167.4 x 76.1 x 9.4 mm (6.59 x 3.00 x 0.37 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,Z1x,,,,,159.5 x 75.2 x 8.1 mm (6.28 x 2.96 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,158.8 x 75.7 x 9.3 mm (6.25 x 2.98 x 0.37 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,,,,,,158.8 x 75.7 x 9.3 mm (6.25 x 2.98 x 0.37 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,Y90,,,,,155.1 x 75.1 x 8.3 mm (6.11 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,159.5 x 75.2 x 8.1 mm (6.28 x 2.96 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,Z1Pro,,,,,162.4 x 77.3 x 8.9 mm (6.39 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,159.5 x 75.2 x 8.1 mm (6.28 x 2.96 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,Z5x,,,,,162.4 x 77.3 x 8.9 mm (6.39 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,157.3 x 74.7 x 8.2 mm (6.19 x 2.94 x 0.32 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+vivo,Z3x,,,,,154.8 x 75 x 7.9 mm (6.09 x 2.95 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,Y17,,,,,159.4 x 76.8 x 8.9 mm (6.28 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,Y12,,,,,159.4 x 76.8 x 8.9 mm (6.28 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,162 x 76 x 8.5 mm (6.38 x 2.99 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,155.1 x 75.1 x 8.3 mm (6.11 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,,,,131.4 x 66.2 x 9 mm (5.17 x 2.61 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+vivo,,,Discontinued,,130.0,"Dual SIM (Micro-SIM,,,,"4.5 inches,55.8 cm (~64.1% screen-to-body ratio)"
+,VK4500,,,Discontinued,,86 g (3.03 oz),,,,"2.0 inches,31 x 39 mm
+,VK800,,,Discontinued,,79 g (2.79 oz),,,,,128 x 143 pixels
+Vodafone,,,,,,151.3 x 69.9 x 8.2 mm (5.96 x 2.75 x 0.32 in),,,, 16M colors","5.9 inches
+Vodafone,,,,,,148.8 x 69.9 x 8.4 mm (5.86 x 2.75 x 0.33 in),,,, 16M colors","5.67 inches
+Vodafone,,,,,,-,,,, 65K colors",1.44 inches
+Vodafone,V720,,Discontinued,,100.0,Mini-SIM,,,, 12.4 cm (~27.8% screen-to-body ratio)","240 x 320 pixels
+Wiko,Y80,,,,,160 x 76.5 x 8.6 mm (6.30 x 3.01 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Wiko,Sunny3,,,,,146.7 x 74 x 10 mm (5.78 x 2.91 x 0.39 in),,,,"TFT capacitive touchscreen,16M colors"
+Wiko,,,,,,159.5 x 75 x 8.1 mm (6.28 x 2.95 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Wiko,View3,,,,,159 x 76.5 x 8.2 mm (6.26 x 3.01 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Wiko,,2017,,,165.0,"Dual SIM (Micro-SIM/Mini-SIM,,,,"5.0 inches,68.9 cm (~63.9% screen-to-body ratio)"
+Wiko,Sunny2,2017,,,125.0,"Dual SIM (Micro-SIM,,,,"4.0 inches,45.5 cm (~54.3% screen-to-body ratio)"
+Wiko,,2016,,,149.0,"Dual SIM (Mini-SIM,,,,"4.0 inches,45.5 cm (~53.5% screen-to-body ratio)"
+Xiaomi,,,,,,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,164.2 x 75.8 x 9 mm (6.46 x 2.98 x 0.35 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,164.2 x 75.8 x 9 mm (6.46 x 2.98 x 0.35 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,163.3 x 75.4 x 8.9 mm (6.43 x 2.97 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,164 x 74.8 x 7.9 mm (6.46 x 2.94 x 0.31 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,163.7 x 74.8 x 7.9 mm (6.44 x 2.94 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,163.3 x 75.4 x 8.9 mm (6.43 x 2.97 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,163.3 x 75.4 x 8.9 mm (6.43 x 2.97 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.5 x 76.7 x 8.8 mm (6.52 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,177.8 x 83.3 x 10.1 mm (7.00 x 3.28 x 0.40 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,168.7 x 77.3 x 10.4 mm (6.64 x 3.04 x 0.41 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,165.3 x 76.6 x 8.8 mm (6.51 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,161.1 x 75.4 x 8.6 mm (6.34 x 2.97 x 0.34 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,53.3 x 46.2 x 11.4 mm (2.10 x 1.82 x 0.45 in),,,, 16M colors","1.39 inches
+Xiaomi,,,,,,44.7 x 36.9 x 12.3 mm (1.76 x 1.45 x 0.48 in),,,, 16M colors","1.78 inches
+Xiaomi,,,,,,156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,154.4 x 72.3 x 10.4 mm (6.08 x 2.85 x 0.41 in),,,,"Flexible Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,157.2 x 74.6 x 8.5 mm (6.19 x 2.94 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,157.2 x 74.6 x 8.5 mm (6.19 x 2.94 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.8 x 74.5 x 8.7 mm (6.17 x 2.93 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,161.4 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,163.6 x 75 x 8.8 mm (6.44 x 2.95 x 0.35 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,146.3 x 70.4 x 9.6 mm (5.76 x 2.77 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,153.5 x 71.9 x 8.5 mm (6.04 x 2.83 x 0.33 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.8 x 74.5 x 8.7 mm (6.17 x 2.93 x 0.34 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,158.3 x 75.3 x 8.4 mm (6.23 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,156.7 x 74.3 x 8.8 mm (6.17 x 2.93 x 0.35 in),,,,"Super AMOLED capacitive touchscreen,16M colors"
+Xiaomi,,,,,,159.2 x 75.2 x 8.1 mm (6.27 x 2.96 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,158.7 x 75.6 x 8.5 mm (6.25 x 2.98 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,,,,158.5 x 75.5 x 8.1 mm (6.24 x 2.97 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Xiaomi,,,Cancelled,,,"Hybrid Dual SIM (Nano-SIM,,,,"7.2 inches,128.3 cm"
+Xiaomi,,,Cancelled,,,"Hybrid Dual SIM (Nano-SIM,,,,"7.2 inches,128.3 cm"
+Xiaomi,,,Cancelled,,,"Dual SIM (Nano-SIM,,,,"6.39 inches,100.2 cm"
+Yezz,,,,,,148.7 x 70.9 x 8.9 mm (5.85 x 2.79 x 0.35 in),,,,"TFT capacitive touchscreen,16M colors"
+Yezz,LIV1,,,,,138.5 x 65.8 x 9.5 mm (5.45 x 2.59 x 0.37 in),,,,"TFT capacitive touchscreen,16M colors"
+ZTE,,,,,,171.7 x 78.5 x 9.1 mm (6.76 x 3.09 x 0.36 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,171.7 x 78.5 x 9.1 mm (6.76 x 3.09 x 0.36 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,168.6 x 78 x 9.8 mm (6.64 x 3.07 x 0.39 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,Discontinued,,175 g (6.17 oz),,,, 16M colors","6.47 inches
+ZTE,,2019,,,160.0,Nano-SIM,,,, 92.9 cm (~76.0% screen-to-body ratio)","1080 x 2160 pixels
+ZTE,,,,,,156.7 x 72.9 x 8.1 mm (6.17 x 2.87 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,158 x 75.2 x 7.9 mm (6.22 x 2.96 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,162.9 x 76.6 x 9 mm (6.41 x 3.02 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,171.7 x 78.5 x 9.7 mm (6.76 x 3.09 x 0.38 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,158.6 x 75.3 x 9 mm (6.24 x 2.96 x 0.35 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,Cancelled,,-,,,, 16M colors","6.26 inches
+ZTE,,,,,,145.8 x 70 x 9.6 mm (5.74 x 2.76 x 0.38 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,137.4 x 67.5 x 10.5 mm (5.41 x 2.66 x 0.41 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,137.4 x 67.5 x 10.5 mm (5.41 x 2.66 x 0.41 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,171.7 x 78.5 x 9.7 mm (6.76 x 3.09 x 0.38 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,159.2 x 73.4 x 7.9 mm (6.27 x 2.89 x 0.31 in),,,,"AMOLED capacitive touchscreen,16M colors"
+ZTE,,,,,,157.1 x 75.8 x 8.1 mm (6.19 x 2.98 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,147 x 69.5 x 7.9 mm (5.79 x 2.74 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+ZTE,,,,,,154 x 72.8 x 7.9 mm (6.06 x 2.87 x 0.31 in),,,, 16M colors","6.01 inches
+ZTE,V889M,,,,,120.5 x 63.6 x 11.9 mm (4.74 x 2.50 x 0.47 in),,,,"4.0 inches,45.5 cm (~59.4% screen-to-body ratio)"
+ZTE,N880E,,,,,119 x 61 x 10.4 mm (4.69 x 2.40 x 0.41 in),,,,"4.0 inches,45.5 cm (~62.7% screen-to-body ratio)"
+ZTE,,,,,,-,,,, 65K colors","4.0 inches
+ZTE,Sage,,Discontinued,,80.0,Mini-SIM,,,,,V1
+Benefon,Vega,1999,Discontinued,,190.0,Mini-SIM,,,,V1,
+,,,,,,-,,,, 65K colors","3.5 inches
+Gigabyte,,,,,,116 x 56.8 x 12.4 mm (4.57 x 2.24 x 0.49 in),,,, 256K colors","3.2 inches
+Gigabyte,GSmart,,Cancelled,,,Mini-SIM,,,, 24.3 cm (~43.7% screen-to-body ratio)","240 x 320 pixels
+Google,,,,,,160.4 x 75.1 x 8.2 mm (6.31 x 2.96 x 0.32 in),,,, 16M colors","6.3 inches
+Google,,,,,,147.1 x 68.8 x 8.2 mm (5.79 x 2.71 x 0.32 in),,,, 16M colors","5.7 inches
+Google,,,,,,160.1 x 76.1 x 8.2 mm (6.30 x 3.00 x 0.32 in),,,,"OLED capacitive touchscreen,16M colors"
+Google,,,,,,151.3 x 70.1 x 8.2 mm (5.96 x 2.76 x 0.32 in),,,, 16M colors","5.6 inches
+Haier,N60,,,Discontinued,,131 g (4.62 oz),,,,,"320 x 240 pixels
+Haier,T3000,,,Discontinued,,85 g (3.00 oz),,,,128 x 160 pixels,V1
+Haier,V280,2005,Discontinued,,80.0,Mini-SIM,,,,V1,
+Haier,V190,2004,Discontinued,,90.0,Mini-SIM,,,, 1:1 ratio",V1
+Haier,V100,2004,Discontinued,,90.0,Mini-SIM,,,, 1:1 ratio",V1
+Haier,P5,2003,Discontinued,,75.0,Mini-SIM,Monochrome,,, 16:10 ratio",V1
+Haier,Z8000,2004,Discontinued,,90.0,Mini-SIM,,,, 1:1 ratio",V1
+Honor,,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,Play4,,,,,170 x 78.5 x 8.9 mm (6.69 x 3.09 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,162.7 x 75.8 x 8.9 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,163.7 x 76.5 x 8.8 mm (6.44 x 3.01 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,V6,,,,,245.2 x 154.9 x 7.8 mm (9.65 x 6.10 x 0.31 in),,,, 16M colors","10.4 inches
+Honor,9A,,,,,159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,9C,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,9S,,,,,146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in),,,,"Capacitive touchscreen,16M colors"
+Honor,,,,,,160.4 x 76.6 x 7.8 mm (6.31 x 3.02 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,160.3 x 73.6 x 8.4 mm (6.31 x 2.90 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,,,,,,160.3 x 73.6 x 8.4 mm (6.31 x 2.90 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,30,,,,,160.3 x 74.2 x 8.1 mm (6.31 x 2.92 x 0.32 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,20e,,,,,154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Honor,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,156.3 x 73.5 x 8.2 mm (6.15 x 2.89 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,156.3 x 73.5 x 8.2 mm (6.15 x 2.89 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,30S,,,,,162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,162.7 x 75.8 x 8.8 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,View30,,,,,162.7 x 75.8 x 8.9 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,162.7 x 75.8 x 8.8 mm (6.41 x 2.98 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in),,,, 16M colors","1.39 inches
+Honor,9X,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,157.2 x 73.2 x 7.7 mm (6.19 x 2.88 x 0.30 in),,,,"AMOLED capacitive touchscreen,16M colors"
+Honor,,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,20S,,,,,154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Honor,8S,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,243 x 164 x 7.8 mm (9.57 x 6.46 x 0.31 in),,,, 16M colors","10.1 inches
+Honor,,,,,,204.2 x 122.2 x 8.2 mm (8.04 x 4.81 x 0.32 in),,,, 16M colors","8.0 inches
+Honor,,,,,,154.6 x 74 x 8.4 mm (6.09 x 2.91 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,20,,,,,154.3 x 74 x 7.9 mm (6.07 x 2.91 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Honor,,,,,,154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+HP,,,,,,220 x 141.5 x 9.9 mm (8.66 x 5.57 x 0.39 in),,,, 16M colors","8.0 inches
+HTC,,,,,,171.2 x 78.1 x 9.4 mm (6.74 x 3.07 x 0.37 in),,,,"Capacitive touchscreen,16M colors"
+HTC,,,,,,162 x 77 x 9.4 mm (6.38 x 3.03 x 0.37 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,163.2 x 77.8 x 8.9 mm (6.43 x 3.06 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,154.2 x 72.7 x 8.3 mm (6.07 x 2.86 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,,,,,,156.7 x 74.9 x 8 mm (6.17 x 2.95 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,U19e,,,,,156.6 x 75.9 x 8 mm (6.17 x 2.99 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+HTC,,,,,,156.2 x 74.8 x 8.5 mm (6.15 x 2.94 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+HTC,Schubert,,Discontinued,,,Mini-SIM,,,,,"Accelerometer
+Huawei,,,,,,160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,160 x 75.3 x 8.4 mm (6.30 x 2.96 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,Y8p,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,158 x 73.4 x 8.4 mm (6.22 x 2.89 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,199.7 x 121.1 x 8.6 mm (7.86 x 4.77 x 0.34 in),,,, 16M colors","8.0 inches
+Huawei,Y8s,,,,,162.4 x 77.1 x 8.1 mm (6.39 x 3.04 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,Y6p,,,,,159.1 x 74.1 x 9 mm (6.26 x 2.92 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,Y5p,,,,,146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,155.2 x 73.4 x 8 mm (6.11 x 2.89 x 0.31 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,160.4 x 73.7 x 8 mm (6.31 x 2.90 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,160.6 x 74.3 x 8 mm (6.32 x 2.93 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,162.3 x 75 x 8.6 mm (6.39 x 2.95 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,MatePad,,,,,245.2 x 155 x 7.4 mm (9.65 x 6.10 x 0.29 in),,,, 16M colors","10.4 inches
+Huawei,,,,,,53 x 46.8 x 10.8 mm (2.09 x 1.84 x 0.43 in),,,, 16M colors","1.39 inches
+Huawei,,,,,,158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,158.2 x 72.6 x 9 mm (6.23 x 2.86 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,P40,,,,,148.9 x 71.1 x 8.5 mm (5.86 x 2.80 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in),,,, 16M colors","10.8 inches
+Huawei,,,,,,Unfolded: 161.3 x 146.2 x 5.4 mmFolded: 161.3 x 78.5 x 11 mm,,,,"Foldable OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,152.9 x 72.7 x 7.4 mm (6.02 x 2.86 x 0.29 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,Y7p,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,156.3 x 73.5 x 8 mm (6.15 x 2.89 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,162.7 x 75.8 x 9 mm (6.41 x 2.98 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,162.6 x 75.7 x 8.6 mm (6.40 x 2.98 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,246 x 159 x 7.2 mm (9.69 x 6.26 x 0.28 in),,,, 16M colors","10.8 inches
+Huawei,Y9s,,,,,163.1 x 77.2 x 8.8 mm (6.42 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,157.4 x 73.2 x 7.8 mm (6.20 x 2.88 x 0.31 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,159.8 x 76.1 x 8.1 mm (6.29 x 3.00 x 0.32 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,158.1 x 73.1 x 9.3 mm (6.22 x 2.88 x 0.37 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,158.1 x 73.1 x 8.8 mm (6.22 x 2.88 x 0.35 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,160.8 x 76.1 x 8.4 mm (6.33 x 3.00 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,45.9 x 45.9 x 10.7 mm (1.81 x 1.81 x 0.42 in),,,, 16M colors","1.39 inches
+Huawei,,,,,,156.1 x 73.9 x 8.3 mm (6.15 x 2.91 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,154.3 x 74 x 7.8 mm (6.07 x 2.91 x 0.31 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,257 x 170 x 7.2 mm (10.12 x 6.69 x 0.28 in),,,, 16M colors","10.8 inches
+Huawei,,,,,,206.4 x 125.2 x 8.2 mm (8.13 x 4.93 x 0.32 in),,,, 16M colors","8.4 inches
+Huawei,,,,,,206.4 x 125.2 x 7.4 mm (8.13 x 4.93 x 0.29 in),,,, 16M colors","8.4 inches
+Huawei,,,,,,157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,157.4 x 74.8 x 7.3 mm (6.20 x 2.94 x 0.29 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.5 x 77.3 x 8.9 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,159.1 x 75.9 x 8.3 mm (6.26 x 2.99 x 0.33 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,163.5 x 77.3 x 8.8 mm (6.44 x 3.04 x 0.35 in),,,,"LTPS IPS LCD capacitive touchscreen,16M colors"
+Huawei,,,,,,174.6 x 85.4 x 8.4 mm (6.87 x 3.36 x 0.33 in),,,,"OLED capacitive touchscreen,16M colors"
+Huawei,,,,,,147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in),,,,"IPS LCD capacitive touchscreen,16M colors"
