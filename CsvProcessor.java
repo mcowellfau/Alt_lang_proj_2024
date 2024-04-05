@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class CsvProcessor {
+    private static final String STRING_PLACEHOLDER = "Nil";
+    private static final Integer INTEGER_PLACEHOLDER = -1; // Or 0, depending on what makes sense for your data
+    private static final Float FLOAT_PLACEHOLDER = -1.0f;
 
     public static Map<Integer, Cell> readCsvAndCreateObjects(String filePath) {
         Map<Integer, Cell> cellMap = new HashMap<>();
@@ -12,7 +15,7 @@ public class CsvProcessor {
             String line;
             int rowKey = 0;
             while ((line = br.readLine()) != null) {
-                String[] values = line.split(",");
+                String[] values = line.split(",", -1); // Use -1 to include trailing empty strings
                 // Assuming the CSV structure matches the Cell class constructor
                 String oem = values[0];
                 String model = values[1];
@@ -27,7 +30,7 @@ public class CsvProcessor {
                 String featureSensors = values[10];
                 String platformOs = values[11];
                 
-                Cell cell = new Cell(oem, model,launchAnnounced,launchStatus, bodyDimensions, bodyWeight, bodySim, displayType, displaySize, displayResolution, featureSensors, platformOs);
+                Cell cell = new Cell(oem, model, launchAnnounced, launchStatus, bodyDimensions, bodyWeight, bodySim, displayType, displaySize, displayResolution, featureSensors, platformOs);
                 cellMap.put(rowKey++, cell); // Storing the cell object in the map with a unique key
             }
         } catch (IOException e) {
@@ -35,4 +38,6 @@ public class CsvProcessor {
         }
         return cellMap;
     }
+
+
 }
