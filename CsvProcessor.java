@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class CsvProcessor {
     private static final String STRING_PLACEHOLDER = "Nil";
-    private static final Integer INTEGER_PLACEHOLDER = -1; // Or 0, depending on what makes sense for your data
+    private static final Integer INTEGER_PLACEHOLDER = -1; 
     private static final Float FLOAT_PLACEHOLDER = -1.0f;
 
     public static Map<Integer, Cell> readCsvAndCreateObjects(String filePath) {
@@ -38,6 +38,18 @@ public class CsvProcessor {
         }
         return cellMap;
     }
-
+    //Validation Methods
+    private static String validateOem(String oem) {
+        if (oem != null && !oem.trim().isEmpty()) {
+            return oem; // Returns the original string, not the trimmed version
+        }
+        return STRING_PLACEHOLDER;
+    }private static String validateModel(String model) {
+        if (model != null && !model.trim().isEmpty()) {
+            return model;
+        }
+        return STRING_PLACEHOLDER;
+    }
+    
 
 }
